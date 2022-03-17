@@ -1,0 +1,13 @@
+name = "The Guild"
+filename = "guild-fabric-0.3.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3600/139/guild-fabric-0.3.8.jar"
+hash-format = "sha1"
+hash = "e872fd87bbb1147035e05a3dddee290c64cb7e1c"
+
+[update]
+[update.curseforge]
+file-id = 3600139
+project-id = 526011

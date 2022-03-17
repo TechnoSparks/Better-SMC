@@ -1,0 +1,13 @@
+name = "LaW Minecraft"
+author = "Shahmi"
+version = "1.0.1"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a4b889935597bfafe1fb0342ce8bdf4b346a0c6098d6dff10080fdb9015a6025"
+
+[versions]
+fabric = "0.13.2"
+minecraft = "1.18.1"

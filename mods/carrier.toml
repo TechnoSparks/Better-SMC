@@ -1,0 +1,13 @@
+name = "Carrier"
+filename = "carrier-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3624/495/carrier-1.9.1.jar"
+hash-format = "sha1"
+hash = "c3bc35f751ced4f114fa34175fdd419e1018a923"
+
+[update]
+[update.curseforge]
+file-id = 3624495
+project-id = 409184

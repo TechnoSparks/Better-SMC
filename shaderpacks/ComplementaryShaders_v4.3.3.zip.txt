@@ -1,0 +1,11 @@
+#Wed Feb 23 08:48:45 MYT 2022
+AA=0
+shadowDistance=64.0
+SHADOW_FILTER=false
+shadowMapResolution=256
+VIGNETTE=false
+NETHER_BLUR=false
+REFLECTION_RAIN=true
+GALAXIES=true
+REFLECTION_ROUGH=false
+SHADOW_SUBSURFACE=0

@@ -1,0 +1,13 @@
+name = "Villager Death Messages (Fabric)"
+filename = "villagerdeathmessages-fabric_1.18.x-2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/85/villagerdeathmessages-fabric_1.18.x-2.2.jar"
+hash-format = "sha1"
+hash = "9ad267c1f5e22b859e7171481b9419eb1e914661"
+
+[update]
+[update.curseforge]
+file-id = 3542085
+project-id = 527643

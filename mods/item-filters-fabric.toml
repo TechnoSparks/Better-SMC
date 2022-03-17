@@ -1,0 +1,13 @@
+name = "Item Filters (Fabric)"
+filename = "item-filters-fabric-1801.2.6-build.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3596/361/item-filters-fabric-1801.2.6-build.16.jar"
+hash-format = "sha1"
+hash = "0dbed7f1342760fe21f99316d8e9760862480151"
+
+[update]
+[update.curseforge]
+file-id = 3596361
+project-id = 438500

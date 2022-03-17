@@ -1,0 +1,13 @@
+name = "When Dungeons Arise - Fabric!"
+filename = "DungeonsArise-1.18.1-2.1.49d-fabric-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3632/78/DungeonsArise-1.18.1-2.1.49d-fabric-beta.jar"
+hash-format = "sha1"
+hash = "6c2e72755d9c6868f8affbadee29e8f90982aee3"
+
+[update]
+[update.curseforge]
+file-id = 3632078
+project-id = 511812

@@ -1,0 +1,13 @@
+name = "Eden Ring"
+filename = "eden-ring-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3636/527/eden-ring-0.3.0.jar"
+hash-format = "sha1"
+hash = "c5713a7c96d4d1c0fbd3b401e7f66ab7a5347f30"
+
+[update]
+[update.curseforge]
+file-id = 3636527
+project-id = 546590

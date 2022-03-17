@@ -1,0 +1,13 @@
+name = "Better Trident Return"
+filename = "bettertridentreturn-1.18.1-1.0.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3600/713/bettertridentreturn-1.18.1-1.0.2-fabric.jar"
+hash-format = "sha1"
+hash = "575e041f73c231c8acb78cf0dfa55594c1acb34f"
+
+[update]
+[update.curseforge]
+file-id = 3600713
+project-id = 334204

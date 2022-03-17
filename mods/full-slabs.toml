@@ -1,0 +1,13 @@
+name = "Full Slabs"
+filename = "full-slabs-3.3.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3608/260/full-slabs-3.3.4.jar"
+hash-format = "sha1"
+hash = "0d3ca72e153bbdc1a814c0d338315ad087c308dc"
+
+[update]
+[update.curseforge]
+file-id = 3608260
+project-id = 449430

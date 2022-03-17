@@ -1,0 +1,13 @@
+name = "XP Storage"
+filename = "xp_storage-1.4.3+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3562/510/xp_storage-1.4.3+1.18.jar"
+hash-format = "sha1"
+hash = "96e343f28725668191eeb8a297f99f1bfdbbb99e"
+
+[update]
+[update.curseforge]
+file-id = 3562510
+project-id = 403434

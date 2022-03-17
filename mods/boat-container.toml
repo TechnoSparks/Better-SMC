@@ -1,0 +1,13 @@
+name = "Boat Container"
+filename = "boatcontainer-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3545/10/boatcontainer-1.0.4.jar"
+hash-format = "sha1"
+hash = "7fd85884fff1238d780a0f3ecb12e7808c127109"
+
+[update]
+[update.curseforge]
+file-id = 3545010
+project-id = 526274

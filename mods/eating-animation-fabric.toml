@@ -1,0 +1,13 @@
+name = "Eating Animation [Fabric]"
+filename = "eating-animation-1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3651/790/eating-animation-1.5.jar"
+hash-format = "sha1"
+hash = "540fb50a54ace671e0d8ca1362b686c43f0e2564"
+
+[update]
+[update.curseforge]
+file-id = 3651790
+project-id = 527023

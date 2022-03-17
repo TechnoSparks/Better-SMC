@@ -1,0 +1,13 @@
+name = "Basic Shields [Fabric]"
+filename = "BasicShields-1.2.1-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3594/300/BasicShields-1.2.1-1.18.1.jar"
+hash-format = "sha1"
+hash = "cf65266ea35d5ae866d4c96ecf8908c1d18d2161"
+
+[update]
+[update.curseforge]
+file-id = 3594300
+project-id = 538011

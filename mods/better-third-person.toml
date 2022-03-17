@@ -1,0 +1,13 @@
+name = "Better Third Person"
+filename = "BetterThirdPerson-Fabric-1.18-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3581/979/BetterThirdPerson-Fabric-1.18-1.6.0.jar"
+hash-format = "sha1"
+hash = "ef26c894db7c4d3f1224b6c3d9af15587bbc6090"
+
+[update]
+[update.curseforge]
+file-id = 3581979
+project-id = 435044

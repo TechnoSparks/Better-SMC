@@ -1,0 +1,13 @@
+name = "Friends&Foes [Fabric]"
+filename = "friendsandfoes-mc1.18.1-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3662/915/friendsandfoes-mc1.18.1-1.2.5.jar"
+hash-format = "sha1"
+hash = "93d88480e3094d30e3b3e8e812d32d5befa00184"
+
+[update]
+[update.curseforge]
+file-id = 3662915
+project-id = 551364

@@ -1,0 +1,13 @@
+name = "Earth2Java"
+filename = "Earth2Java-1.7.4+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/176/Earth2Java-1.7.4+1.18.jar"
+hash-format = "sha1"
+hash = "579d476728015dd0f990222292fd029c444a02d3"
+
+[update]
+[update.curseforge]
+file-id = 3542176
+project-id = 398022

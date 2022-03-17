@@ -1,0 +1,13 @@
+name = "Better Compatibility Checker"
+filename = "bcc-fabric-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3569/379/bcc-fabric-1.0.4.jar"
+hash-format = "sha1"
+hash = "a34b4c6349ce105d5a13e532af6ca67ffdb5f20f"
+
+[update]
+[update.curseforge]
+file-id = 3569379
+project-id = 551894

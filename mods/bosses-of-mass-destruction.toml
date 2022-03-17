@@ -1,0 +1,13 @@
+name = "Bosses of Mass Destruction"
+filename = "BOMD-1.3.5-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3635/839/BOMD-1.3.5-1.18.jar"
+hash-format = "sha1"
+hash = "436023a06d47ef57247af5ba6a9f267a34546ff6"
+
+[update]
+[update.curseforge]
+file-id = 3635839
+project-id = 438365

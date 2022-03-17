@@ -1,0 +1,13 @@
+name = "FTB Library (Fabric)"
+filename = "ftb-library-fabric-1801.3.5-build.109.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3598/889/ftb-library-fabric-1801.3.5-build.109.jar"
+hash-format = "sha1"
+hash = "7f5d23356a5e01ef6857d265d24d0a382090d54b"
+
+[update]
+[update.curseforge]
+file-id = 3598889
+project-id = 438495

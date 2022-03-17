@@ -1,0 +1,13 @@
+name = "Automatic Doors (Fabric)"
+filename = "automaticdoors-fabric_1.18.x-1.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/335/automaticdoors-fabric_1.18.x-1.9.jar"
+hash-format = "sha1"
+hash = "3e895e73995fc64e5853caf58e80aebeb0f172cb"
+
+[update]
+[update.curseforge]
+file-id = 3542335
+project-id = 531461
