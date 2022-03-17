@@ -316,11 +316,6 @@ hash = "5b4946f8e93d8bfd892ba143172193f1c7471cd5f42815892d64ce554b60ea84"
 metafile = true
 
 [[files]]
-file = "mods/c2me.toml"
-hash = "50c3f9be5f3de019aef7b298f78e420cf38bdf037c9fb74ed8a6321042727116"
-metafile = true
-
-[[files]]
 file = "mods/camp-chair.toml"
 hash = "a75b4867f03f55e8372dea884bddd821b958765934bb17acd9e496a66c0f198c"
 metafile = true
