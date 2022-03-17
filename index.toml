@@ -471,6 +471,11 @@ hash = "8bdf9751a0b00262cbe7a57623592b9806ff4691b97f67325d1b551b0a8c075f"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-threading.toml"
+hash = "53a698496125115d53dc89c3af74358eee249a659595e8873611f62f8390076c"
+metafile = true
+
+[[files]]
 file = "mods/disenchanter.toml"
 hash = "1e213b9af0bc2fa18dd535477e4286c0db0b4442f528ac80463d588069d61e39"
 metafile = true
