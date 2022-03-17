@@ -656,11 +656,6 @@ hash = "b4b73bf715b188232f062a8db4326269eb780843f37ee0bb7efdad09ea373620"
 metafile = true
 
 [[files]]
-file = "mods/fwaystones.toml"
-hash = "4c592b3bbbb041a44bea9d66d58c49be08c52337d65b3c5731cca75610f43ef7"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.toml"
 hash = "8a65edb74189de88ee8dc08cbe4812231e8572ae93ff09f85fe29779c3059aa6"
 metafile = true
