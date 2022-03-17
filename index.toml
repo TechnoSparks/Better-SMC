@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "2ab3c83b6223dd3ff8edd7e97e780ace90b8117a2121932c1dab86d11e0cfa43"
+
+[[files]]
+file = "README.md"
+hash = "820283e2e0328c9e6b0fd4afcbc0743f1feabdcdd240b5f7ec056039bbe86417"
+
+[[files]]
 file = "config/additional-additions-config.json"
 hash = "f32ea825e0302dfb156b3e39220b026e2e20e595a1b2ad06797ea7ed69fe773b"
 
@@ -71,10 +79,6 @@ hash = "26bc4932da8a4a710fc79454ded0139261d29ac773c3822590b019a317d7007c"
 [[files]]
 file = "config/yigd.toml"
 hash = "ee80c5283692aecbb655e5d87f72b10b164e9ec3df41059134881836a36f32f3"
-
-[[files]]
-file = "log.txt"
-hash = "42d9c40ff56b79a21f10b330dd693a227ff477c8c0f0986ad9a73faccd2747bd"
 
 [[files]]
 file = "mods/addadd.toml"
@@ -1138,10 +1142,6 @@ hash = "fa057d04cdddad36d3c0600f0a1c26aaddf83ce1fa70fab342ac11267ed85602"
 [[files]]
 file = "scripts/recipe.zs"
 hash = "e47dd87cd8568f88209bc592687a69776ef0b65893ff9a8c827bcfb21582250b"
-
-[[files]]
-file = "settings.toml"
-hash = "44abc547172b26703037f8a7a7eb8c233717e18a56d5ce700b8b1992b48eec47"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.3.3.zip"
