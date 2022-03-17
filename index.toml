@@ -511,6 +511,11 @@ hash = "60f569e3fad9326f389d593a0450110aa780dcc80b05bb432a0a50b5945b2bfa"
 metafile = true
 
 [[files]]
+file = "mods/economical-villager-trading.toml"
+hash = "8f2550ed22c0166db63a2c5772a5fd464a206586d28c2c0d1ba37b0d75ae7922"
+metafile = true
+
+[[files]]
 file = "mods/eden-ring.toml"
 hash = "8fb5e1143f2e56e5d7a322e2ca1e84ce5bd395348dc14edd43cbd24a3decc13f"
 metafile = true
