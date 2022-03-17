@@ -691,6 +691,11 @@ hash = "20cf509a9c9468dbe5b7ba3e3b128cfffd8eb499d9a79f2f21c6a31c7f4a17bd"
 metafile = true
 
 [[files]]
+file = "mods/horsebuff.toml"
+hash = "d8d005efb7f9e3d8f53b2bb39438f55aa5de2a007b51f1cfbd17340091c778df"
+metafile = true
+
+[[files]]
 file = "mods/horsestatsvanilla.toml"
 hash = "d516293a88d9507ed822e140c94f1b2f17cbe34954aa4063046590278728df9f"
 metafile = true
