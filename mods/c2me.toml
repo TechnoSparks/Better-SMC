@@ -1,0 +1,8 @@
+name = "Dimensional Threading"
+filename = "c2me-fabric-mc1.18.1-0.2.0+alpha.6.1-all.jar"
+side = "both"
+
+[download]
+url = "https://github.com/RelativityMC/C2ME-fabric/releases/download/0.2.0%2Balpha.6/c2me-fabric-mc1.18.1-0.2.0+alpha.6.1-all.jar"
+hash-format = "sha1"
+hash = "7a01e66aa5a8c3577b3f528481f46eb1988e2409"
