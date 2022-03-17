@@ -526,6 +526,11 @@ hash = "8fb5e1143f2e56e5d7a322e2ca1e84ce5bd395348dc14edd43cbd24a3decc13f"
 metafile = true
 
 [[files]]
+file = "mods/egg-of-capitalism.toml"
+hash = "0fc9688f9b07fad58d0f4e96159652bc355f05cf76a96511d3d3719bbdce8b64"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trinket-fabric.toml"
 hash = "d39d67a2cc547bcd089e7409a5847cb3ca8ff10eb8b7f8896edc23e9eeb785c5"
 metafile = true
