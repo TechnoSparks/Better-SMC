@@ -946,6 +946,11 @@ hash = "18cf4e4692064bca45ad2f12f2b5e14c863331b64d9711449023159bd1c5552d"
 metafile = true
 
 [[files]]
+file = "mods/recipe-cache.toml"
+hash = "85c32f965a5d59d4ce80d80f7a3e418e3f7453045342d06bfa22ed8094b311de"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.toml"
 hash = "aee07fab9ca9fead1484dc9db1f02fb5bc2b42cee60fee584af64e64d45e5d43"
 metafile = true
