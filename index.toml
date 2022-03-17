@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.toml"
-hash = "7b7ae069cb7f807f3b37df58f251192a777276c0b9d4f413a6d7d672f317fc52"
+hash = "50c3f9be5f3de019aef7b298f78e420cf38bdf037c9fb74ed8a6321042727116"
 metafile = true
 
 [[files]]
