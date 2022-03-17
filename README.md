@@ -7,7 +7,9 @@ Personal modpack that was initially based on the mod list of Better Minecraft. C
 ## Usage
 Understand [this documentation](https://packwiz.infra.link/tutorials/installing/packwiz-installer/#creating-a-multimc-instance-for-your-modpack), under the section "Creating a MultiMC instance for your modpack".
 With such knowledge, if using MultiMC, the following would utilise this repository's modlist and configs:
+
 ```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/TechnoSparks/Better-SMC/main/pack.toml```
+
 If you are using an alternative launcher, then consider replacing `$INST_JAVA` with a proper string pointing to the Java binary.
 
 ## Build
