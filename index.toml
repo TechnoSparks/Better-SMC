@@ -121,6 +121,11 @@ hash = "78e551c5b4b7d25ccfc292a51ece06e4655c96e016bd07a750528997c078ed12"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.toml"
+hash = "612feac558453e4952d9404909a3e07dd7d5d623716b1bce784d17bc804a60de"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.toml"
 hash = "31ca4e53053352e965e777f02ba1eabe3c5266470b359816bd6da1ddd4ebfbb6"
 metafile = true
