@@ -712,6 +712,11 @@ hash = "6b930ae71b10d9cb6e27d48f5cd42433641c04fb3a7e13f9f2d44d2e60daed2c"
 metafile = true
 
 [[files]]
+file = "mods/indypets.toml"
+hash = "1cf062b319519dcf0c7bee3e25f9cf0ff24b6eb1b94b1f643ff57a4a07de1f8c"
+metafile = true
+
+[[files]]
 file = "mods/infusion-table.toml"
 hash = "a216f13faa60fef3a4c10debdf127a6d94b74acf4cbf369c92c2ee7bbb1b771e"
 metafile = true
