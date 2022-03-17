@@ -691,6 +691,11 @@ hash = "20cf509a9c9468dbe5b7ba3e3b128cfffd8eb499d9a79f2f21c6a31c7f4a17bd"
 metafile = true
 
 [[files]]
+file = "mods/healthcare.toml"
+hash = "af68a44e4ada606ed15d00781ea73ad55cc5a8018771177c16b14a83f40cba6e"
+metafile = true
+
+[[files]]
 file = "mods/horsebuff.toml"
 hash = "d8d005efb7f9e3d8f53b2bb39438f55aa5de2a007b51f1cfbd17340091c778df"
 metafile = true
