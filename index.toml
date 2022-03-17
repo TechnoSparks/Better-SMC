@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "2ab3c83b6223dd3ff8edd7e97e780ace90b8117a2121932c1dab86d11e0cfa43"
+hash = "436a6d536138f203ac333858cff92a568be62797752b3adb94bcaa0f6ffe7ef6"
 
 [[files]]
 file = "README.md"
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.toml"
-hash = "419f46e8af1ffc1230f411706ce7a8ed0d8cd717ca7963a1a184d62cdb5eb05e"
+hash = "7b7ae069cb7f807f3b37df58f251192a777276c0b9d4f413a6d7d672f317fc52"
 metafile = true
 
 [[files]]
@@ -471,18 +471,13 @@ hash = "e3e3be12a604bd69c1df66dab030137dd76c0d5acf1d8472bb534904417e823e"
 metafile = true
 
 [[files]]
-file = "mods/dimension-fix-some-forge-patches-ported.toml"
-hash = "a06fd1c52c9fbb9944f4ce645a55880cf593e981180c1d63b77e4f667c590bdc"
-metafile = true
-
-[[files]]
 file = "mods/dimension-fix.toml"
 hash = "8bdf9751a0b00262cbe7a57623592b9806ff4691b97f67325d1b551b0a8c075f"
 metafile = true
 
 [[files]]
 file = "mods/dimensional-threading.toml"
-hash = "53a698496125115d53dc89c3af74358eee249a659595e8873611f62f8390076c"
+hash = "4e49a43208207466928d2a3f16bdf1e9610063db6baa4b5bd682f8be818d1be4"
 metafile = true
 
 [[files]]
