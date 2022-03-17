@@ -1,0 +1,13 @@
+name = "playerless"
+filename = "playerless.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3105/400/playerless.jar"
+hash-format = "sha1"
+hash = "35b22eec6900b02d0d0e5855097e63a6d27bf0eb"
+
+[update]
+[update.curseforge]
+file-id = 3105400
+project-id = 418373

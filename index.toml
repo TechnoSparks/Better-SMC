@@ -882,6 +882,11 @@ hash = "f083bd5a20a7e647fbcdcd5f4fef3962abb55198b2920e032b80c4a67e9d3d46"
 metafile = true
 
 [[files]]
+file = "mods/playerless.toml"
+hash = "4d6edc13f95ce87d1bbc62c86fa07ce8e44e435100c2441d844545cb0809c23c"
+metafile = true
+
+[[files]]
 file = "mods/pling.toml"
 hash = "26f0c08d68f20d07201ebffea527c6747240b568987d3bdd19497f830ccdce85"
 metafile = true
