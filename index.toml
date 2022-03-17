@@ -1141,11 +1141,6 @@ hash = "009c90b64fa24849bfb125621d47622a6508f7c87bc3f049feaf837969dc55e1"
 metafile = true
 
 [[files]]
-file = "mods/youre-in-grave-danger.toml"
-hash = "382634102351a5048c658fb7b55a1c11a90518a57aa58a3a2febf63f16dd34ec"
-metafile = true
-
-[[files]]
 file = "mods/yungs-api-fabric.toml"
 hash = "ce05f69b0c02eeda34b3a31c780343c95fca2bcb77a03c3cb01dea5176022f12"
 metafile = true
