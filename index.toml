@@ -601,16 +601,6 @@ hash = "f27bb409bcc2145ff98e41db4646829d9598457217b86c85d83a7f286198fb4e"
 metafile = true
 
 [[files]]
-file = "mods/fast-furnace-for-fabric.toml"
-hash = "37e620f13f7e75969d3ff4f743e9f6ea1e70eef22616917a0bbf2413e6d8725e"
-metafile = true
-
-[[files]]
-file = "mods/fastbench-for-fabric.toml"
-hash = "a3434a654aef2428cc47ac164e07081f1b7c0cd592df870b21ad20a653612849"
-metafile = true
-
-[[files]]
 file = "mods/feature-nbt-deadlock-be-gone.toml"
 hash = "620f060a9a25942d2aa721fb116f1db9a63992b054a559606fa96983f2e3b46c"
 metafile = true
