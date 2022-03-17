@@ -2,7 +2,7 @@
  A modpack based on popular Better Minecraft modpack
 
 ## About
-Personal modpack that was initially based on the mod list of Better Minecraft. Configurations however was reset to defaults, and adjusted to my liking. The intent of this repository is to allow version management and as an interface to [Packwiz](https://github.com/packwiz/packwiz)
+Personal modpack that was initially based on the mod list of Better Minecraft. SMC is expanded to "Shahmi Minecraft". Configurations however was reset to defaults, and adjusted to my liking. The intent of this repository is to allow version management and as an interface to [Packwiz](https://github.com/packwiz/packwiz)
 
 ## Usage
 Understand [this documentation](https://packwiz.infra.link/tutorials/installing/packwiz-installer/#creating-a-multimc-instance-for-your-modpack), under the section "Creating a MultiMC instance for your modpack".
