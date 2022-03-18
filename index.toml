@@ -436,11 +436,6 @@ hash = "2a831d4a49f00191dddac41d552e78b4e01004d4fa162e918e52a7265df75322"
 metafile = true
 
 [[files]]
-file = "mods/croptopia-fabric.toml"
-hash = "1a8e16e1b2ce64c22a98673a3ef830b896d184b697047d68ad008f60359a0b36"
-metafile = true
-
-[[files]]
 file = "mods/cull-leaves.toml"
 hash = "a6bd295330e16716d7ce62249c88e10f1d608982ed2d477f0592c6afa38f2290"
 metafile = true
