@@ -1156,17 +1156,15 @@ hash = "97cc0733bcedd16b3397b38253d2a9959240b5c6893ea023cf3f478d1d6903cc"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Stay_True_1.18.zip"
-hash = "fa057d04cdddad36d3c0600f0a1c26aaddf83ce1fa70fab342ac11267ed85602"
+file = "resourcepacks/stay-true.toml"
+hash = "a92a866ca28f5416b5622eacd2bf808b70bf875ba19f4fa6699c6e920682e5a2"
+metafile = true
 
 [[files]]
 file = "scripts/recipe.zs"
 hash = "e47dd87cd8568f88209bc592687a69776ef0b65893ff9a8c827bcfb21582250b"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.3.3.zip"
-hash = "e47fb57d7acd74af4d3dcb622f6f8c94cac039efd2d826d7da56b12622656d1f"
-
-[[files]]
-file = "shaderpacks/ComplementaryShaders_v4.3.3.zip.txt"
-hash = "efa9fcad50568e35f79efe36eadf30cabeae83ab478f7b681ccfb5156c6b105e"
+file = "shaderpacks/ComplementaryShaders.toml"
+hash = "4b50219b2539e4dddbd78b9fa41cc9e7d7040d06b8600e4b7f4e39001951ae4a"
+metafile = true
