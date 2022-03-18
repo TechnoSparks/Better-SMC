@@ -1,8 +1,0 @@
-name = "Dimensional Threading"
-filename = "DimThread-1.2.6.jar"
-side = "both"
-
-[download]
-url = "https://github.com/WearBlackAllDay/DimensionalThreading/releases/download/v1.2.6/DimThread-1.2.6.jar"
-hash-format = "sha1"
-hash = "10abc6fdaa857abe50daaf7299519110e8c5c3b4"

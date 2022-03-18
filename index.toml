@@ -18,7 +18,7 @@ hash = "ad3ee148ed435562d60ee7e0ad208f75c3d6e24ada0ab3561067d8c176632e67"
 
 [[files]]
 file = "config/bcc.json"
-hash = "316cc3dad43a8a157898b03f055652522c0beef7c6caa25506aaa1c782130f91"
+hash = "5a2b97158ce0365055ac390d7e87c91ac7372b016da88b3b7e18b177556c276e"
 
 [[files]]
 file = "config/better_loading_screen/config.json5"
@@ -468,11 +468,6 @@ metafile = true
 [[files]]
 file = "mods/dimension-fix.toml"
 hash = "8bdf9751a0b00262cbe7a57623592b9806ff4691b97f67325d1b551b0a8c075f"
-metafile = true
-
-[[files]]
-file = "mods/dimensional-threading.toml"
-hash = "4e49a43208207466928d2a3f16bdf1e9610063db6baa4b5bd682f8be818d1be4"
 metafile = true
 
 [[files]]
