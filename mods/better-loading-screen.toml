@@ -1,13 +1,13 @@
-name = "BetterLoadingScreen"
-filename = "better-loading-screen-1.2.0.jar"
+name = "Better Loading Screen"
+filename = "better-loading-screen-1.2.1.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3695/622/better-loading-screen-1.2.0.jar"
+url = "https://edge.forgecdn.net/files/3697/289/better-loading-screen-1.2.1.jar"
 hash-format = "sha1"
-hash = "93ed0eeab379c14a0cfebb415282196aa6d9397d"
+hash = "6659b05ad112923ce2b92c50efc10f6ac22e5ade"
 
 [update]
 [update.curseforge]
-file-id = 3695622
+file-id = 3697289
 project-id = 594044

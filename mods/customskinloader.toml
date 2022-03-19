@@ -1,13 +1,13 @@
 name = "CustomSkinLoader"
-filename = "CustomSkinLoader_Fabric-14.13-SNAPSHOT-317.jar"
+filename = "CustomSkinLoader_Fabric-14.13.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3670/754/CustomSkinLoader_Fabric-14.13-SNAPSHOT-317.jar"
+url = "https://edge.forgecdn.net/files/3695/976/CustomSkinLoader_Fabric-14.13.jar"
 hash-format = "sha1"
-hash = "dc657ad0a597a84924883e0de5e93bc70256e58b"
+hash = "14c6456035907c35604fd02d3f3b02d76ef0be35"
 
 [update]
 [update.curseforge]
-file-id = 3670754
+file-id = 3695976
 project-id = 286924

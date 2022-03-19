@@ -81,11 +81,6 @@ file = "config/yigd.toml"
 hash = "ee80c5283692aecbb655e5d87f72b10b164e9ec3df41059134881836a36f32f3"
 
 [[files]]
-file = "mods/addadd.toml"
-hash = "1339cf5b10aa45e277df9d482397c06c5800700ee76008098252797880be80bb"
-metafile = true
-
-[[files]]
 file = "mods/additional-additions.toml"
 hash = "6d12fb61d1519e459529532350b8e47588aab2abe86409ee912a08e41bd7dd17"
 metafile = true
@@ -93,11 +88,6 @@ metafile = true
 [[files]]
 file = "mods/additional-bars-fabric.toml"
 hash = "fa6b0f8ed6192518a1bf30dcc5871fc9fa627f81d390f67b664f83105dd477fd"
-metafile = true
-
-[[files]]
-file = "mods/additionalbars.toml"
-hash = "1ba21da33899494ef47f21a2fac1ec8c810b7c76754add5f73976a82da0f268d"
 metafile = true
 
 [[files]]
@@ -222,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.toml"
-hash = "4ca419b3d50e33b97a1048e7334709711a87a578b49424e577640b2f69077cea"
+hash = "daf9022b2b49d82f0cdab3d04fb4a032b74c1bed8a8cdc259c565acbeceb33dd"
 metafile = true
 
 [[files]]
@@ -232,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-loading-screen.toml"
-hash = "49c83039f69cff1c860dcbc9a1769151ffc49724f6235c0ba6c1da0f73d2eef6"
+hash = "b0a58c038305a5f93b6ffec1d119e3522c29f07a5ac04fd30d0a778fd86ee32d"
 metafile = true
 
 [[files]]
@@ -287,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.toml"
-hash = "5dd8d0c55c4f46dd238e10be163dbbf4481dea4dafa1d1f51a63903aa5488580"
+hash = "179dbdad8bab0b3cdfeb04d7c2b3dcd1216226f579dcd0801fc75527df075dcf"
 metafile = true
 
 [[files]]
@@ -447,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.toml"
-hash = "97bfabbae03f2daf1e61683b67618f959620468b5087c060146aef9291e5d424"
+hash = "af70c361d69a7e77c32dcde9f3a5f991b6f22e5635840c1d0fc6ae832b91bc2f"
 metafile = true
 
 [[files]]
@@ -552,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/exlines-furniture.toml"
-hash = "360be1e4b1341d119902db84aef5e5ca3a2c26ef97c24bf73253cd73a4fb4dca"
+hash = "f0e29ff763f0e897ff7b3bfdb27eb3a55afa4a8ac58924f1a82c5d335da1f5df"
 metafile = true
 
 [[files]]
@@ -677,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers-fabric.toml"
-hash = "661720257dc0d6c5b21e34ffbfbc18862e06d8da119a438443e6b5e01f36d722"
+hash = "52c2f7919ecd03ff085ce22aa85a933eaf3c62d1a7c00a3c055e001bac43ad50"
 metafile = true
 
 [[files]]
