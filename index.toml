@@ -81,6 +81,141 @@ file = "config/yigd.toml"
 hash = "ee80c5283692aecbb655e5d87f72b10b164e9ec3df41059134881836a36f32f3"
 
 [[files]]
+file = "mods/BetterLoadingScreen.toml"
+hash = "2456644af3dc1cafd652666cea9e308c1b8de9e2d6f194ff89abad66196cec48"
+metafile = true
+
+[[files]]
+file = "mods/addadd.toml"
+hash = "1339cf5b10aa45e277df9d482397c06c5800700ee76008098252797880be80bb"
+metafile = true
+
+[[files]]
+file = "mods/additionalbars.toml"
+hash = "d6cb742104f06920e28efad0044c096fafb874d9df899fd0a9c9eeb8457f6f2c"
+metafile = true
+
+[[files]]
+file = "mods/advancements-enlarger.toml"
+hash = "eea30bf3a3f1f9350f871b5b652068b890acaeecca92dd74bae45c2a1b833f0f"
+metafile = true
+
+[[files]]
+file = "mods/adventurez.toml"
+hash = "0991ace0473b5dc90ae3cb55efab4c01734794dbebeb435fdc81e8aee4eda44e"
+metafile = true
+
+[[files]]
+file = "mods/all-dimension-height-increase.toml"
+hash = "79f828a41921cad874f17e32a9e1ca50ee7f947810dd0374ee6ccf7e39d45b2e"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.toml"
+hash = "da0d6a42bbea6e10b150dca42f855a533b7431ab5018ed6b07048c8891229455"
+metafile = true
+
+[[files]]
+file = "mods/animal-feeding-trough.toml"
+hash = "ce95830cd3a968feceb27197fd6a3e923aa024b15f2119450519c699491d9eaf"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "cde374866663873f43b376a673fa6095b5f74a8b87215432f6628ee08d405f5f"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "4678da7646beb73621074e73d73d5b0c20d8ae370c18a18cdef8b20f43e29cf4"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.toml"
+hash = "e31f47324e36a7d7353f179f7dc081e446a6f1c9130b5b6e2eb0c420a6d89484"
+metafile = true
+
+[[files]]
+file = "mods/automatic-doors-fabric.toml"
+hash = "c9b94f521e243a15789b2883f57ab61b0ecf3d42c33f12016a1ecca18f228a7c"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-edition-ocean-fabric.toml"
+hash = "029f1e0fe8a06479a4a4ec4d504d1029dd86f2d19eb9f3b5ed0a192bdcfe1eaa"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-fabric.toml"
+hash = "bbc7c18f312ddbfb677c00c98dec97ecd7141e1ee7368cd542dd473a4c1b6aed"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-nether-fabric.toml"
+hash = "262582212b11633baf8891620780c9c75a877b3cfde246b6d4468fd215bbcc86"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-the-end-fabric.toml"
+hash = "98176c99e7c83f82d6ab8371b0908bbe65cb6b00aab9d044184b4fd50e6f76a2"
+metafile = true
+
+[[files]]
+file = "mods/axolotl-bucket-fix.toml"
+hash = "ddf3e5d3b93a40717dc669758d9333edea44c934399c9c5199947be328c41aac"
+metafile = true
+
+[[files]]
+file = "mods/basic-shields-fabric.toml"
+hash = "1a81c780ed91f65071a2b224268b7c30c36601579fa26a4b3924e6964e9bd2f0"
+metafile = true
+
+[[files]]
+file = "mods/beenfo.toml"
+hash = "0906657a5361ad7864aa15d308e22e565f1eabb0a4e7cac990eeaa681b974ca5"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.toml"
+hash = "daf9022b2b49d82f0cdab3d04fb4a032b74c1bed8a8cdc259c565acbeceb33dd"
+metafile = true
+
+[[files]]
+file = "mods/better-safe-bed.toml"
+hash = "a7802119ac409f7689b64a4d82cdd2ab865508a657e23168c9126b8ba937c6bb"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.toml"
+hash = "7e44aaa2c323b344cd482fbc0aa120d1a43465d127d8f8cd1ea704fab052aa47"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
+metafile = true
+
+[[files]]
+file = "mods/collective-fabric.toml"
+hash = "e6c5135fd6fba2a73f4b97de3756855bc5e53720c95a125eb951188663b598ab"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-shield-lib.toml"
+hash = "1cf684b0b9ae153e79ebed9953e1532364a2646c335eb68e4ea1be21aa16bcbe"
+metafile = true
+
+[[files]]
+file = "mods/library-ferret-fabric.toml"
+hash = "018853acfc82de347a6227907271ef545f813f79def64568e8b534cbfb88c6f9"
+metafile = true
+
+[[files]]
 file = "resourcepacks/stay-true.toml"
 hash = "a92a866ca28f5416b5622eacd2bf808b70bf875ba19f4fa6699c6e920682e5a2"
 metafile = true

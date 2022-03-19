@@ -1,0 +1,13 @@
+name = "Awesome Dungeon - Fabric"
+filename = "fabric-example-mod-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3676/388/fabric-example-mod-2.0.5.jar"
+hash-format = "sha1"
+hash = "3d18ab88e78ac23fb1aeaa8d4242743637264ea3"
+
+[update]
+[update.curseforge]
+file-id = 3676388
+project-id = 530309
