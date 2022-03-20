@@ -1,6 +1,6 @@
 name = "Better Ping Display [Fabric]"
 filename = "BetterPingDisplay-Fabric-1.18.1-1.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3565/287/BetterPingDisplay-Fabric-1.18.1-1.1.1.jar"
