@@ -18,7 +18,7 @@ hash = "ad3ee148ed435562d60ee7e0ad208f75c3d6e24ada0ab3561067d8c176632e67"
 
 [[files]]
 file = "config/bcc.json"
-hash = "0a75de888f0852343a1a897a826a1923c005d24ba67ec7321d8981028eda6de7"
+hash = "ea417a97fb90450ab77e36590f6945895893c04df95ec6105dc363e535fdab11"
 
 [[files]]
 file = "config/better_loading_screen/config.json5"
