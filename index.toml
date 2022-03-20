@@ -1090,11 +1090,6 @@ hash = "f4bc35b700e87cacbca8707eaddcb0c7672fab10f9b34e7629ebd3c2eb916dcb"
 metafile = true
 
 [[files]]
-file = "mods/when-dungeons-arise-fabric.toml"
-hash = "d0864bec073e705944ac82a8509b38d9b6c5c1f8e2d7330ba7cf3f3582d0cbb0"
-metafile = true
-
-[[files]]
 file = "mods/wmitaf.toml"
 hash = "16a7337640b70278f3e7f0ac9308d39dca506fad7582af6c00648e010bbcea6b"
 metafile = true
