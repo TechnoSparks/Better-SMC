@@ -18,7 +18,7 @@ hash = "ad3ee148ed435562d60ee7e0ad208f75c3d6e24ada0ab3561067d8c176632e67"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c45b594901d3bdfc7a867ccaf578ff80d70ca6ad59a155f31c0ece1f40ed6c94"
+hash = "0a75de888f0852343a1a897a826a1923c005d24ba67ec7321d8981028eda6de7"
 
 [[files]]
 file = "config/better_loading_screen/config.json5"
@@ -743,11 +743,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.toml"
 hash = "80152ae31fcd6bd3cb0e6e69ba099b07030b331b6f727e3df0421e77ae42b39c"
-metafile = true
-
-[[files]]
-file = "mods/inventory-sorting.toml"
-hash = "2bf3fc5baffbc216c41554f6dec929935f400ec2e77705da867a534876679d87"
 metafile = true
 
 [[files]]
