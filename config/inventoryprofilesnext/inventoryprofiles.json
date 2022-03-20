@@ -1,0 +1,14 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "refill_armor": false,
+        "refill_before_tool_break": false,
+        "type_visual_durability_notification": "CHAT",
+        "number_of_notifications": 1
+    }
+}

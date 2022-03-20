@@ -1,0 +1,12 @@
+{
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "CONTINUOUS_CRAFTING": {
+                "bottom": -2
+            },
+            "PROFILE_SELECTOR": {
+                "bottom": 23
+            }
+        }
+    }
+}
