@@ -1,0 +1,13 @@
+name = "Additional Bars"
+filename = "1.18.1-additionalbars-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hgNzwsf3/versions/2.2.1/1.18.1-additionalbars-2.2.1.jar"
+hash-format = "sha1"
+hash = "0630c7682e592b5fcacae66a2af91c7ace11005a"
+
+[update]
+[update.modrinth]
+mod-id = "hgNzwsf3"
+version = "BggBR2QQ"
