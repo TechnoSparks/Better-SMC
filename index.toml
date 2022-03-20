@@ -18,7 +18,7 @@ hash = "ad3ee148ed435562d60ee7e0ad208f75c3d6e24ada0ab3561067d8c176632e67"
 
 [[files]]
 file = "config/bcc.json"
-hash = "f7b878d1c897ae935b2c8635ab256b0fca3900ee3573fa3921bb52a6ce4598cf"
+hash = "3db3b241786632f76885f3a7aa0896cbc12176af8fc7f7980794da3681d95241"
 
 [[files]]
 file = "config/better_loading_screen/config.json5"
@@ -993,11 +993,6 @@ metafile = true
 [[files]]
 file = "mods/spoornpacks.toml"
 hash = "57f0aa100dab55a7fe47bca8045b7bc46bde28ac7d106647eb68f3f4ec3222aa"
-metafile = true
-
-[[files]]
-file = "mods/stack-refill-fabric.toml"
-hash = "bb598d14dbef3e87cd99db56c0cfa85c15e9d7318970ac76d388415874d01ed6"
 metafile = true
 
 [[files]]
