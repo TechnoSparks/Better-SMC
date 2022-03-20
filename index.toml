@@ -1001,11 +1001,6 @@ hash = "57f0aa100dab55a7fe47bca8045b7bc46bde28ac7d106647eb68f3f4ec3222aa"
 metafile = true
 
 [[files]]
-file = "mods/stack-refill-fabric.toml"
-hash = "bb598d14dbef3e87cd99db56c0cfa85c15e9d7318970ac76d388415874d01ed6"
-metafile = true
-
-[[files]]
 file = "mods/starlight.toml"
 hash = "25004bfaed5d36459fe6c6f7486794338e8b632679f5dd02c3624b961bcf9b9f"
 metafile = true
