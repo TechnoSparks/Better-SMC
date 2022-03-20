@@ -86,16 +86,6 @@ hash = "1339cf5b10aa45e277df9d482397c06c5800700ee76008098252797880be80bb"
 metafile = true
 
 [[files]]
-file = "mods/additional-additions.toml"
-hash = "6d12fb61d1519e459529532350b8e47588aab2abe86409ee912a08e41bd7dd17"
-metafile = true
-
-[[files]]
-file = "mods/additional-bars-fabric.toml"
-hash = "fa6b0f8ed6192518a1bf30dcc5871fc9fa627f81d390f67b664f83105dd477fd"
-metafile = true
-
-[[files]]
 file = "mods/additionalbars.toml"
 hash = "1ba21da33899494ef47f21a2fac1ec8c810b7c76754add5f73976a82da0f268d"
 metafile = true
