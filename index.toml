@@ -322,6 +322,11 @@ hash = "926763d0c4b8fc731621dca4f4f0e20713b46dbdddb8f4ff4a7c40d475bb6cf9"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.toml"
+hash = "9839cc962c3f391fef79c3d10edca2610e36057348ac03ab03893e561b4ca299"
+metafile = true
+
+[[files]]
 file = "mods/camp-chair.toml"
 hash = "a75b4867f03f55e8372dea884bddd821b958765934bb17acd9e496a66c0f198c"
 metafile = true
@@ -419,6 +424,11 @@ metafile = true
 [[files]]
 file = "mods/companion-fabric.toml"
 hash = "1d34edfd1110e9cf649aea25976fec87eb7f5148f377039cc792b3f9e91bf110"
+metafile = true
+
+[[files]]
+file = "mods/compass-commands.toml"
+hash = "6d0e4bb987d167f49df2ca996f93f311e612feed4ab10e37db4ceabb0a9838d8"
 metafile = true
 
 [[files]]
@@ -622,6 +632,11 @@ hash = "727c4afc9af1316318e0ab8ef228dc6cddc34f554ae3cdc7096a458d9f477d6d"
 metafile = true
 
 [[files]]
+file = "mods/flonters.toml"
+hash = "e621edc752953e484b1fdc3f5062209dcee3817b444bead54f8407c3b8b74596"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port-fabric.toml"
 hash = "e238243a0546790505cc18fe071211b9cae3207d53b29483e46e484600e3bdad"
 metafile = true
@@ -787,6 +802,11 @@ hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "d0cf8f6847a6c3f18010788f1068b98abb0ebca06536d2f482dc51d834a31308"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.toml"
 hash = "cc9447996a7df5c320cbb67208e9a2d1eb325258dff4e1fabef7cd27545953d0"
 metafile = true
@@ -887,6 +907,16 @@ hash = "06563b25314739ec2bbbc7dbc4476e4e92737e7d078bb80f24915c55d73d2694"
 metafile = true
 
 [[files]]
+file = "mods/numismatic-overhaul.toml"
+hash = "0410e953851481353ca3cceeb40926148e24a3d96220f09fb87546fcd25493f3"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.toml"
+hash = "5bf17c8db342a36f94c1e578cf46e8877a974e28cdfcaa30532131bb64867b67"
+metafile = true
+
+[[files]]
 file = "mods/passive-endermen-fabric.toml"
 hash = "c452342498a44e8c730de4e72b938c94cd64f45cde222ba0fe2ee61e8d02db53"
 metafile = true
@@ -927,6 +957,11 @@ hash = "e5bbaa30903ae31d7cd7f19908c092702068181bb9397b19a62b894c87e480f7"
 metafile = true
 
 [[files]]
+file = "mods/promenade.toml"
+hash = "fecc9a454a8ef59eaca143936f2bf82ea1e948c6716ba40838d1795b8fa790d6"
+metafile = true
+
+[[files]]
 file = "mods/public-gui-announcement.toml"
 hash = "3a55586cc87f25174031f05f795de12a7064f1d4cd6bac22755d590538aa8932"
 metafile = true
@@ -949,6 +984,11 @@ metafile = true
 [[files]]
 file = "mods/reroll.toml"
 hash = "97ff0cc000d1c0d39a54c953641f23dc1caef8bb2840454dca5a5ad99d518c9f"
+metafile = true
+
+[[files]]
+file = "mods/resetchunks.toml"
+hash = "ea6793e5d05d3bb904e336083b27a3cee1ebef50bf78589573c85b21ef0acfb1"
 metafile = true
 
 [[files]]
@@ -1022,8 +1062,18 @@ hash = "89d4712935ec73c6a574a6c87652762516d87f5627ec20491a2a0111417d53ef"
 metafile = true
 
 [[files]]
+file = "mods/subterrestrial.toml"
+hash = "aec646d8441e5f2f33e874089d60fbc49a4f5fa1bb649de3c358175b954b13fe"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.toml"
 hash = "d842f8ed6325a853c9e864647679be8db764bc96ee29018a79161837ea27167c"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.toml"
+hash = "f32dbc3da9e7ff1845e85d1b4afcfd22cb02e08eed74a06e647d294249aaee22"
 metafile = true
 
 [[files]]
