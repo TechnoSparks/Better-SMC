@@ -1,13 +1,13 @@
 name = "myLoot"
-filename = "myloot-1.8.jar"
+filename = "myloot-2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3687/825/myloot-1.8.jar"
+url = "https://edge.forgecdn.net/files/3707/53/myloot-2.0.1.jar"
 hash-format = "sha1"
-hash = "877f317197a8b4f519a65660239aeb61bfa249cd"
+hash = "afe6c15bce9ff399013967db8c54edbccec33646"
 
 [update]
 [update.curseforge]
-file-id = 3687825
+file-id = 3707053
 project-id = 582459

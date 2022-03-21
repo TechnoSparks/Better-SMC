@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "b8f2d4e84622a78484fe04bb0713d2a6819c624a09614a83ff4815cca56d6cc0"
+hash = "79a654931c4f87680c065f50b50d974d7dd6a3f08396d6d3cb663a911c9e406b"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.toml"
-hash = "179dbdad8bab0b3cdfeb04d7c2b3dcd1216226f579dcd0801fc75527df075dcf"
+hash = "daf8d0937ff7d9787169329d4ad0629f6c926afbe307fe087d0dcb7f2c964796"
 metafile = true
 
 [[files]]
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/consistency.toml"
-hash = "64d361c64703270d84e21531b1a2e72c8093fa941a880c691a9130bb09ead8ab"
+hash = "0c092b0c9d7739dd364e92e712b806fde777a214824fe6bffbe1703b46d6be87"
 metafile = true
 
 [[files]]
@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-shield-lib.toml"
-hash = "377e9e4c5dfa3157d2792c4dc1a13a2505a1b5ac1f82c3eeef95f54f5ade2928"
+hash = "1bad1dc3bdf8b4d1382e4a3600724dbeb33b71825b15511e03f275f6ac3a0df8"
 metafile = true
 
 [[files]]
@@ -878,7 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/myloot.toml"
-hash = "91de61434364c36b93df7b4e9edfee19bda0d49bc7abf23a4c0f9b4666e05f0f"
+hash = "2924965bde7b1962c5550ef7a419cc779066450f5970757b3435da8c5a109594"
 metafile = true
 
 [[files]]
@@ -919,6 +919,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
 hash = "5bf17c8db342a36f94c1e578cf46e8877a974e28cdfcaa30532131bb64867b67"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.toml"
+hash = "51ae8cf51d2645daa792675b89be4fbe4fc375f47726293092d7039294d61d52"
 metafile = true
 
 [[files]]
@@ -1163,7 +1168,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "cff3911cf3ad9fa28f7fcac360558080f24684c367a3ba9845ad6dab00ceff5f"
+hash = "9f529e1af206c988570bcbed4b29578cc88196f388ca3e38a59012919d47be88"
 metafile = true
 
 [[files]]
