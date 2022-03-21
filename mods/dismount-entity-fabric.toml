@@ -1,0 +1,13 @@
+name = "Dismount Entity (Fabric)"
+filename = "dismountentity-fabric_1.18.x-1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/280/dismountentity-fabric_1.18.x-1.5.jar"
+hash-format = "sha1"
+hash = "ec54d1d3cf07e3ad62b2db4e3d25427849cc5c00"
+
+[update]
+[update.curseforge]
+file-id = 3542280
+project-id = 531265
