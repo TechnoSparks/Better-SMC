@@ -191,6 +191,56 @@ hash = "7e44aaa2c323b344cd482fbc0aa120d1a43465d127d8f8cd1ea704fab052aa47"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.toml"
+hash = "58fdfc104f291d6a0be25a3e4763a789e6a6e8b69bee0d30065c95567bd04364"
+metafile = true
+
+[[files]]
+file = "mods/biome-makeover.toml"
+hash = "615bfc585e8b6f78ea6ed2fdecb17079c4e17c4a1ed78b1e34ea5ece143a2dc2"
+metafile = true
+
+[[files]]
+file = "mods/biome-particle-weather.toml"
+hash = "85ac80b506170cd5504590a8d3266d835ab07fa5371f9b48b4105f15f886663e"
+metafile = true
+
+[[files]]
+file = "mods/blockus.toml"
+hash = "8b15e604e640abd2891350fc84c001aa6e5c07ebb18c96a7821d5c8d9f0b1623"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.toml"
+hash = "30e1835d475de4077be53d9c1bc00938c2661562f6146699a9731add29ad733a"
+metafile = true
+
+[[files]]
+file = "mods/bow-infinity-fix.toml"
+hash = "727c852fe11ccf64c440a698111febeb99001cc383030f8f76718d8d20d99734"
+metafile = true
+
+[[files]]
+file = "mods/caracal-mod.toml"
+hash = "16129cb988abbcb2dfc45d389ec2523a3e4b82e109bc67518d829583949936ba"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components.toml"
+hash = "19358b0e2ac72a0921d8d54226497d21ae81bfe43a6c001b71de5ef70871f5c8"
+metafile = true
+
+[[files]]
+file = "mods/carrier.toml"
+hash = "7fc4f0fd54ed713a880eb17b133715b748a2bd03663d4deb227cc975edfbcd45"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.toml"
+hash = "65ea21c5f04186c96636c7132b7089a8d06b3b9f40288a3ce8c7085059170ed2"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
@@ -206,8 +256,18 @@ hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "7dd17b9b9514e5dbd19d536d82721b13d7590268a29825d732d4d332b16a5886"
+metafile = true
+
+[[files]]
 file = "mods/fabric-shield-lib.toml"
 hash = "1cf684b0b9ae153e79ebed9953e1532364a2646c335eb68e4ea1be21aa16bcbe"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "a1f3905c864512030f1d2aafb3c38d1f771b76fa3e3fad2d4ada772906f7bb58"
 metafile = true
 
 [[files]]
