@@ -1,6 +1,6 @@
 name = "AppleSkin"
 filename = "appleskin-fabric-mc1.18.1-2.3.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3626/708/appleskin-fabric-mc1.18.1-2.3.0.jar"
