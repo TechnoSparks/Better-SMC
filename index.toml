@@ -307,11 +307,6 @@ hash = "367945543375f1c8d25c152d31f33c96b8f227535ade82792d3871851b042368"
 metafile = true
 
 [[files]]
-file = "mods/bountiful-fabric.toml"
-hash = "93bf42170bea84b0f1360afc116b9f0e6f1e97df96bf4074c7c9ecc30f48920e"
-metafile = true
-
-[[files]]
 file = "mods/bow-infinity-fix.toml"
 hash = "727c852fe11ccf64c440a698111febeb99001cc383030f8f76718d8d20d99734"
 metafile = true
