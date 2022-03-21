@@ -5,6 +5,8 @@
 Personal modpack that was initially based on the mod list of Better Minecraft. SMC is expanded to "Shahmi Minecraft". Configurations however were reset to defaults, and adjusted to my liking. The intent of this repository is to allow version management and as an interface to [Packwiz](https://github.com/packwiz/packwiz)
 
 ## Usage
+_Importable MultiMC instance zip package will be released in the releases section soon_
+
 Requires:
 - Minecraft 1.18.1
 - Fabric Modloader 0.13.3
