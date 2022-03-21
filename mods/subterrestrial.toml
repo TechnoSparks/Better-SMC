@@ -1,0 +1,13 @@
+name = "Subterrestrial"
+filename = "Subterrestrial-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UiVm8hgI/versions/1.0.1/Subterrestrial-1.0.1.jar"
+hash-format = "sha1"
+hash = "c61a6c70d525aabccf10a7833101c6fb7dacf9e4"
+
+[update]
+[update.modrinth]
+mod-id = "UiVm8hgI"
+version = "EnfaTHi6"
