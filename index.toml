@@ -612,11 +612,6 @@ hash = "12eb704a683fbc4f077a70b3bdb02f3e7115532b13061ecf5ab68042436964ab"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.toml"
-hash = "f27bb409bcc2145ff98e41db4646829d9598457217b86c85d83a7f286198fb4e"
-metafile = true
-
-[[files]]
 file = "mods/feature-nbt-deadlock-be-gone.toml"
 hash = "620f060a9a25942d2aa721fb116f1db9a63992b054a559606fa96983f2e3b46c"
 metafile = true
