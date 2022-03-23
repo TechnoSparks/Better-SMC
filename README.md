@@ -9,6 +9,7 @@ The original Better Minecraft had some duplicate mods that serve the same featur
 ## Gameplay Notes!
 - Original Better Minecraft has a grave mod called [You're in Grave Danger](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger) that keeps your item on-death. This is absent in Better SMC due to my private playthrough uses `keepinventory` gamerule as `true`
 - An **alpha**-stage [Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric/files) is included in this modpack.
+- Better BMC takes priority in optimisation. Serveral optimisation mods are included that may affect your gameplay experience.
 
 ## Usage
 ### MultiMC
