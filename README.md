@@ -2,14 +2,14 @@
  A modpack based on the popular Better Minecraft modpack
 
 ## About
-Personal modpack that was initially based on the mod list of Better Minecraft. SMC is expanded to "Shahmi Minecraft". Configurations however were reset to defaults, and adjusted to my liking. The intent of this repository is to allow version management and as an interface to [Packwiz](https://github.com/packwiz/packwiz), which is a really good tool for updating your mods. Totally recommended if you are hosting privately to play with friends!
+Personal modpack that was initially based on the mod list of Better Minecraft. SMC is expanded to "Shahmi Minecraft". Configurations however were reset to their default and adjusted to my liking. The intent of this repository is to allow version management and as an interface to [Packwiz](https://github.com/packwiz/packwiz), which is a really good tool for updating your mods. Totally recommended if you are hosting privately to play with friends!
 
-The original Better Minecraft had some duplicate mods that serve the same features. This bothers me a lot due to how modded Minecraft consumes a lot of resources. I decided to trim duplicates, and remove redundant functionalities.
+The original Better Minecraft had some duplicate mods that serve the same features. This bothers me a lot due to how modded Minecraft consumes a lot of resources. I decided to trim duplicates and remove redundant functionalities.
 
 ## Gameplay Notes!
 - Original Better Minecraft has a grave mod called [You're in Grave Danger](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger) that keeps your item on-death. This is absent in Better SMC due to my private playthrough uses `keepinventory` gamerule as `true`
 - An **alpha**-stage [Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric/files) is included in this modpack.
-- Better BMC takes priority in optimisation. Serveral optimisation mods are included that may affect your gameplay experience.
+- Better BMC takes priority in optimisation. Several optimisation mods are included that may affect your gameplay experience.
 
 ## Usage
 ### MultiMC
@@ -21,7 +21,7 @@ The original Better Minecraft had some duplicate mods that serve the same featur
   - Until no errors do:
   - Click "Continue" in the GUI
   - Kill Minecraft or close it
-  - Relaunch again. If there are still remaining errors, repeat! Otherwise enjoy the game
+  - Relaunch again. If there are remaining errors, repeat! Otherwise enjoy the game
 - MultiMC will always sync to this repository when launching this instance. If you'd like to disable this behaviour, disable "Custom commands" in the Instance's settings.
 
 ### Other launchers
@@ -35,4 +35,4 @@ The original Better Minecraft had some duplicate mods that serve the same featur
 - The user of this modpack will need to run the script file again if one wish to update with this repository.
 
 ## Build/export
-This modpack is broken, and cannot be exported to Modrinth and Curseforge formats due to the mixing of both platform sources.
+This modpack is broken and cannot be exported to Modrinth and Curseforge formats due to the mixing of both platform sources.
