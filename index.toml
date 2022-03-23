@@ -10,7 +10,7 @@ hash = "436a6d536138f203ac333858cff92a568be62797752b3adb94bcaa0f6ffe7ef6"
 
 [[files]]
 file = "README.md"
-hash = "3a55b8943cf067495a7a3363051d3b4224ff49baed4cb915ef1eac7c1e1759c5"
+hash = "e8a7d193535b99a2fb5bbc0582d612e0c254eee9e14c2df9ec5db157914753ed"
 
 [[files]]
 file = "config/additional-additions-config.json"
