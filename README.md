@@ -1,8 +1,14 @@
 # Better SMC
- A modpack based on popular Better Minecraft modpack
+ A modpack based on the popular Better Minecraft modpack
 
 ## About
-Personal modpack that was initially based on the mod list of Better Minecraft. SMC is expanded to "Shahmi Minecraft". Configurations however were reset to defaults, and adjusted to my liking. The intent of this repository is to allow version management and as an interface to [Packwiz](https://github.com/packwiz/packwiz)
+Personal modpack that was initially based on the mod list of Better Minecraft. SMC is expanded to "Shahmi Minecraft". Configurations however were reset to defaults, and adjusted to my liking. The intent of this repository is to allow version management and as an interface to [Packwiz](https://github.com/packwiz/packwiz), which is a really good tool for updating your mods. Totally recommended if you are hosting privately to play with friends!
+
+The original Better Minecraft had some duplicate mods that serve the same features. This bothers me a lot due to how modded Minecraft consumes a lot of resources. I decided to trim duplicates, and remove redundant functionalities.
+
+## Gameplay Notes!
+- Original Better Minecraft has a grave mod called [You're in Grave Danger](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger) that keeps your item on-death. This is absent in Better SMC due to my private playthrough uses `keepinventory` gamerule as `true`
+- An **alpha**-stage [Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric/files) is included in this modpack.
 
 ## Usage
 ### MultiMC
@@ -25,7 +31,7 @@ Personal modpack that was initially based on the mod list of Better Minecraft. S
   - Until no errors do:
   - Click "Continue" in the GUI
   - Run the script again. If there are still remaining errors, repeat!
-- The user of this modpack will need to run the script file again if want to update with this repository.
+- The user of this modpack will need to run the script file again if one wish to update with this repository.
 
-## Build
-This modpack is broken for exporting in Modrinth and Curseforge formats due to the mixing of both platform sources.
+## Build/export
+This modpack is broken, and cannot be exported to Modrinth and Curseforge formats due to the mixing of both platform sources.
