@@ -77,6 +77,10 @@ file = "config/presencefootsteps/userconfig.json"
 hash = "4a6f74a51ec23308918bd63ce994ffde57313facc813096afc699fe39d3da6f5"
 
 [[files]]
+file = "config/servercore.toml"
+hash = "f0214eaa57c590a0f33d11ac6d77234f88f77c108758887e0468663856710842"
+
+[[files]]
 file = "config/simple-rpc-server.toml"
 hash = "8f8b794d182448eb0eee64ebf0349d8d9bb5e8afd623b749f2d5c2a0cbf215ae"
 
