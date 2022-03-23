@@ -1,0 +1,13 @@
+name = "Greater Eye of Ender [FABRIC]"
+filename = "GreaterEye-Fabric-1.18.2-1.3.25.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3689/7/GreaterEye-Fabric-1.18.2-1.3.25.jar"
+hash-format = "sha1"
+hash = "9ddf27eacb43b66343dc28a5a334818570e9f3a1"
+
+[update]
+[update.curseforge]
+file-id = 3689007
+project-id = 376207

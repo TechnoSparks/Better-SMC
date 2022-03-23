@@ -1,0 +1,13 @@
+name = "Loud Leads [Fabric]"
+filename = "LoudLeads-1.0.1+mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3541/937/LoudLeads-1.0.1+mc1.18.jar"
+hash-format = "sha1"
+hash = "3363048bf2c9c5443cae5062a4f40a18ce1168a4"
+
+[update]
+[update.curseforge]
+file-id = 3541937
+project-id = 422343

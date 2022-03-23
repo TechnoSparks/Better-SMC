@@ -1,0 +1,13 @@
+name = "Passive Endermen (Fabric)"
+filename = "passiveendermen-fabric_1.18.x-2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3704/148/passiveendermen-fabric_1.18.x-2.3.jar"
+hash-format = "sha1"
+hash = "a0d3e27016dd66847559e2a73834d8e9548b1bc6"
+
+[update]
+[update.curseforge]
+file-id = 3704148
+project-id = 580907

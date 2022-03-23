@@ -1,0 +1,13 @@
+name = "ServerCore"
+filename = "servercore-1.2.8-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3667/424/servercore-1.2.8-1.18.2.jar"
+hash-format = "sha1"
+hash = "949d3e5c84d1f42e917766ed90795d9809307397"
+
+[update]
+[update.curseforge]
+file-id = 3667424
+project-id = 550579

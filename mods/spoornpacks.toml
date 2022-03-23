@@ -1,0 +1,13 @@
+name = "SpoornPacks"
+filename = "spoornpacks-4.1.1-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3681/34/spoornpacks-4.1.1-1.18.2.jar"
+hash-format = "sha1"
+hash = "f763d6a0ea27ff6f95aeaecef959cb2019e361d5"
+
+[update]
+[update.curseforge]
+file-id = 3681034
+project-id = 577442

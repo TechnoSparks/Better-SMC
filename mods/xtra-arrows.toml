@@ -1,0 +1,13 @@
+name = "Xtra Arrows"
+filename = "Xtra Arrows Fabric MC1.18.2 v1.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3669/469/Xtra%20Arrows%20Fabric%20MC1.18.2%20v1.8.jar"
+hash-format = "sha1"
+hash = "30bf6c2dac2b3ab7b09c20a6a8e786032ece8633"
+
+[update]
+[update.curseforge]
+file-id = 3669469
+project-id = 566441
