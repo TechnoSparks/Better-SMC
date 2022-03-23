@@ -25,6 +25,10 @@ file = "config/bcc.json"
 hash = "066d195685dd3ed4e350e6765b66ae5ccd4c1b6debd36672c7cbef5cc22b0373"
 
 [[files]]
+file = "config/bclib/server.json"
+hash = "11736fdc03761560e311fffc7239eaabe660d49b4286589ca3056417258b34a9"
+
+[[files]]
 file = "config/better_loading_screen/config.json5"
 hash = "b4015b33f9eb0f4999b0b57644f2d60f112cf4a5e75626992bec2bef8d32ca02"
 
