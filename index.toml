@@ -81,11 +81,6 @@ file = "config/yigd.toml"
 hash = "ee80c5283692aecbb655e5d87f72b10b164e9ec3df41059134881836a36f32f3"
 
 [[files]]
-file = "mods/BetterLoadingScreen.toml"
-hash = "2456644af3dc1cafd652666cea9e308c1b8de9e2d6f194ff89abad66196cec48"
-metafile = true
-
-[[files]]
 file = "mods/addadd.toml"
 hash = "1339cf5b10aa45e277df9d482397c06c5800700ee76008098252797880be80bb"
 metafile = true
@@ -183,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/better-compatibility-checker.toml"
 hash = "daf9022b2b49d82f0cdab3d04fb4a032b74c1bed8a8cdc259c565acbeceb33dd"
+metafile = true
+
+[[files]]
+file = "mods/better-loading-screen.toml"
+hash = "b0a58c038305a5f93b6ffec1d119e3522c29f07a5ac04fd30d0a778fd86ee32d"
 metafile = true
 
 [[files]]
