@@ -317,11 +317,6 @@ hash = "926763d0c4b8fc731621dca4f4f0e20713b46dbdddb8f4ff4a7c40d475bb6cf9"
 metafile = true
 
 [[files]]
-file = "mods/cameraoverhaul.toml"
-hash = "9839cc962c3f391fef79c3d10edca2610e36057348ac03ab03893e561b4ca299"
-metafile = true
-
-[[files]]
 file = "mods/camp-chair.toml"
 hash = "a75b4867f03f55e8372dea884bddd821b958765934bb17acd9e496a66c0f198c"
 metafile = true
