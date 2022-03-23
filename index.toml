@@ -136,6 +136,11 @@ hash = "c9b94f521e243a15789b2883f57ab61b0ecf3d42c33f12016a1ecca18f228a7c"
 metafile = true
 
 [[files]]
+file = "mods/autorun-fabric.toml"
+hash = "d561851f54decc3a38170a4239d1c15fde856dc29e4d82e50829e00dfbf2f237"
+metafile = true
+
+[[files]]
 file = "mods/awesome-dungeon-edition-ocean-fabric.toml"
 hash = "029f1e0fe8a06479a4a4ec4d504d1029dd86f2d19eb9f3b5ed0a192bdcfe1eaa"
 metafile = true
@@ -188,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/better-safe-bed.toml"
 hash = "a7802119ac409f7689b64a4d82cdd2ab865508a657e23168c9126b8ba937c6bb"
+metafile = true
+
+[[files]]
+file = "mods/better-spawner-control-fabric.toml"
+hash = "125c842e6e9d8bbc34f145ed54a50a2f4091a632d487308d077ea3490e8bda81"
 metafile = true
 
 [[files]]
@@ -281,6 +291,11 @@ hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
+file = "mods/clumps.toml"
+hash = "3b72cdc35c9308eb3d0fae47ad58c0f3123e1d671bde3b209f27b8d0e2a71d59"
+metafile = true
+
+[[files]]
 file = "mods/collective-fabric.toml"
 hash = "efac426e50a166afaee23320b09fe17425eaa94016448dbb4fec2b0a6ef5e2b4"
 metafile = true
@@ -298,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/companion-fabric.toml"
 hash = "90fccdb453964a6e18a008f7c9e0fb123f79bd36ae6f0c8a6030134cf4965153"
+metafile = true
+
+[[files]]
+file = "mods/compass-commands.toml"
+hash = "6d0e4bb987d167f49df2ca996f93f311e612feed4ab10e37db4ceabb0a9838d8"
 metafile = true
 
 [[files]]
@@ -368,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-sound-filters.toml"
 hash = "70e1489941446daca1b0f5a6609f7cfe9495c0aa47b475019ebd896e97388ea8"
+metafile = true
+
+[[files]]
+file = "mods/earth2java-fabric.toml"
+hash = "d2d544eefc633c4ba068f3123f8a66f476b6eeb5cbbbf337ad67c29bcda162d2"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Better Spawner Control (Fabric)"
+filename = "betterspawnercontrol-fabric_1.18.x-1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3669/343/betterspawnercontrol-fabric_1.18.x-1.6.jar"
+hash-format = "sha1"
+hash = "4f5094ffb4f57e7334deba7b060647a6d8cb2568"
+
+[update]
+[update.curseforge]
+file-id = 3669343
+project-id = 541470
