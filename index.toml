@@ -448,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-fabric.toml"
-hash = "1a8e16e1b2ce64c22a98673a3ef830b896d184b697047d68ad008f60359a0b36"
+hash = "782d8af9d6003eea98ce620eee66c9e3667e4b3e5b893d914b80a78ff19548db"
 metafile = true
 
 [[files]]
