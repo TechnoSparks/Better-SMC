@@ -587,10 +587,6 @@ hash = "d09e22b6960590df5462182e20545907bd89ae1f55ae48dfb1134ba5588572ba"
 metafile = true
 
 [[files]]
-file = "mods/fabric-carpet-1.18.2-1.4.67+v220318.jar"
-hash = "7477c7693a08b72d5b5387e0094b6c65355f61e1db77c4b2e227bd0c7a64aaca"
-
-[[files]]
 file = "mods/fabric-extended-armor-bars-forked.toml"
 hash = "ae386925d44de1182be74e9d15c33fd5a802d0f8811d1703e9a919ffde46e9fc"
 metafile = true
