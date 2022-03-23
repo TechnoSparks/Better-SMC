@@ -15,7 +15,7 @@ Personal modpack that was initially based on the mod list of Better Minecraft. S
   - Click "Continue" in the GUI
   - Kill Minecraft or close it
   - Relaunch again. If there are still remaining errors, repeat! Otherwise enjoy the game
-- MultiMC will always sync to this repository on launch. If you'd like to disable this behaviour, disable "Custom commands" in the Instance's settings.
+- MultiMC will always sync to this repository when launching this instance. If you'd like to disable this behaviour, disable "Custom commands" in the Instance's settings.
 
 ### Other launchers
 **Auto update is not possible**
@@ -25,7 +25,7 @@ Personal modpack that was initially based on the mod list of Better Minecraft. S
   - Until no errors do:
   - Click "Continue" in the GUI
   - Run the script again. If there are still remaining errors, repeat!
-- The user of this modpack will need to run the script files again if want to update with this repository.
+- The user of this modpack will need to run the script file again if want to update with this repository.
 
 ## Build
 This modpack is broken for exporting in Modrinth and Curseforge formats due to the mixing of both platform sources.
