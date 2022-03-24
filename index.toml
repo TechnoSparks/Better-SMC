@@ -642,6 +642,11 @@ hash = "e238243a0546790505cc18fe071211b9cae3207d53b29483e46e484600e3bdad"
 metafile = true
 
 [[files]]
+file = "mods/forgetmechunk.toml"
+hash = "157cf09e3f6a5a3df956c6a56ffee4dc50000b9bda935431eaa589d3ea87194b"
+metafile = true
+
+[[files]]
 file = "mods/forging-beyond.toml"
 hash = "d24e932cafcfde349076fbc27e90c65ab09be31cb9d964ca381c29cd04f9fb5e"
 metafile = true
