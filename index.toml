@@ -227,6 +227,11 @@ hash = "23f83c44689b0b602a9f02b91ed03b7d39eed5873961e1794d52e261c7e8c5b6"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.toml"
+hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.toml"
 hash = "daf9022b2b49d82f0cdab3d04fb4a032b74c1bed8a8cdc259c565acbeceb33dd"
 metafile = true
