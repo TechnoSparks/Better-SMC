@@ -1167,16 +1167,6 @@ hash = "3fec17db4a60e25b280c64de121401cdcdb5db08ca41d366b0d5a7794dc9bbe4"
 metafile = true
 
 [[files]]
-file = "mods/xp-storage-trinkets.toml"
-hash = "f3b80f7c972a2eea7401cbff8bc9576e3530e21f95d231f34eed027a302c7eba"
-metafile = true
-
-[[files]]
-file = "mods/xp-storage.toml"
-hash = "589266dd6f59ae0d449ae9be2115d54e2a8601516e2d6a2f32d22597f89fbb58"
-metafile = true
-
-[[files]]
 file = "mods/xtra-arrows.toml"
 hash = "009c90b64fa24849bfb125621d47622a6508f7c87bc3f049feaf837969dc55e1"
 metafile = true
