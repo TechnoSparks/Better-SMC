@@ -477,6 +477,11 @@ hash = "f34ce750b6068d7dd23996541ca5fda800ceb0b89ea88e0b51e21d33a84a69d8"
 metafile = true
 
 [[files]]
+file = "mods/dashloader.toml"
+hash = "8b977f688c648ca53b125f996e6e3138823d4d72143bab221d3c208e31964a92"
+metafile = true
+
+[[files]]
 file = "mods/dawn.toml"
 hash = "d64cce508db939b5b65ba29c430d088f9883a27bf0fe6803f63a263fd0a643a3"
 metafile = true
