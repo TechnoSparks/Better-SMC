@@ -657,6 +657,11 @@ hash = "20236f0cd4af4cfc34bfaeeb0bbf4286b26f7d6b063f25990d980b8eb6562a16"
 metafile = true
 
 [[files]]
+file = "mods/fpsdisplay.toml"
+hash = "eb6466d2b30c07855f10907e78d09d52e0116cf59340c797dc3f8a9efc2863d7"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.toml"
 hash = "6ce1cf617c8ead6495cfffea7d6e811c32c57daffb1d09a3ca78b3faeed0851c"
 metafile = true
