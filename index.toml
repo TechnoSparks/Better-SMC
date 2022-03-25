@@ -22,7 +22,7 @@ hash = "11736fdc03761560e311fffc7239eaabe660d49b4286589ca3056417258b34a9"
 
 [[files]]
 file = "config/better_loading_screen/config.json5"
-hash = "b4015b33f9eb0f4999b0b57644f2d60f112cf4a5e75626992bec2bef8d32ca02"
+hash = "040e11138a057067b8dea81a560af5203ad6a58f3ce2a6e9da349b280ce37f00"
 
 [[files]]
 file = "config/betterpingdisplay.json"
