@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-loading-screen.toml"
-hash = "b0a58c038305a5f93b6ffec1d119e3522c29f07a5ac04fd30d0a778fd86ee32d"
+hash = "0c45659877db3db714096aa3a62a7715bc1e59fef951abfc0f15dbab8406cd9a"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/caracal-mod.toml"
-hash = "4ed9bcaee41b37c5f92eeb96d128e0e3a7805558e2b6e07241e0c6a2de61f030"
+hash = "f963f794e378d62d9f521d78cbbfdaa30641f78bd922830c03a05d2249eb8448"
 metafile = true
 
 [[files]]
@@ -963,7 +963,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph-fabric.toml"
-hash = "08d6f4049183a46962e3b6cf94195dfb5fc214047cb2df6df8ca9c3b9fcfa082"
+hash = "e40e4254b083c849bc57209e429db3152649e93cfb46394a61552126b047d200"
 metafile = true
 
 [[files]]
