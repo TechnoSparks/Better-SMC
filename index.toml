@@ -922,11 +922,6 @@ hash = "06563b25314739ec2bbbc7dbc4476e4e92737e7d078bb80f24915c55d73d2694"
 metafile = true
 
 [[files]]
-file = "mods/numismatic-overhaul.toml"
-hash = "0410e953851481353ca3cceeb40926148e24a3d96220f09fb87546fcd25493f3"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
 hash = "5bf17c8db342a36f94c1e578cf46e8877a974e28cdfcaa30532131bb64867b67"
 metafile = true
