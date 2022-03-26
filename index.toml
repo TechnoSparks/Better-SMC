@@ -14,7 +14,7 @@ hash = "ad3ee148ed435562d60ee7e0ad208f75c3d6e24ada0ab3561067d8c176632e67"
 
 [[files]]
 file = "config/bcc.json"
-hash = "abe40102e39b4183a191fd956f20a7e6106c929546cd6cc539420c5242baac90"
+hash = "6b139b411edfe2c220988446f06754f10e10be934d7722bde2a0ec67f94b9afb"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.toml"
-hash = "daf8d0937ff7d9787169329d4ad0629f6c926afbe307fe087d0dcb7f2c964796"
+hash = "4e4304cc45cbca91649b57cd01124cbd2d94f1a34b54d4b6ab1b75e26725aa04"
 metafile = true
 
 [[files]]
