@@ -14,7 +14,7 @@ hash = "ad3ee148ed435562d60ee7e0ad208f75c3d6e24ada0ab3561067d8c176632e67"
 
 [[files]]
 file = "config/bcc.json"
-hash = "7095c9661a72cedc93dc8acb0e983ec8f1e55b39343569f1477a0430bc5e9f2c"
+hash = "1f0a500b0c8722c919bd8b5e0d8ea32412646c493ae9aad08c6a941358e487bf"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -90,7 +90,7 @@ hash = "a3bf6630c1f4834c6e17eb462239e6a7149c1b4a239fdaf56ee2255671ba1a22"
 
 [[files]]
 file = "config/waystones/config.json"
-hash = "26bc4932da8a4a710fc79454ded0139261d29ac773c3822590b019a317d7007c"
+hash = "663ce4bb6ad3fe7936de1ca5a7cb2d952bd13776ec32b0b93ac50c9bf2420ec3"
 
 [[files]]
 file = "config/yigd.toml"
