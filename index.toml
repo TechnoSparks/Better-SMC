@@ -14,7 +14,7 @@ hash = "ad3ee148ed435562d60ee7e0ad208f75c3d6e24ada0ab3561067d8c176632e67"
 
 [[files]]
 file = "config/bcc.json"
-hash = "6b139b411edfe2c220988446f06754f10e10be934d7722bde2a0ec67f94b9afb"
+hash = "c7ff3c97b8229b81827b2116c8a975bbf693f7b974bd5346eec048ffdc1996e5"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "79a654931c4f87680c065f50b50d974d7dd6a3f08396d6d3cb663a911c9e406b"
+hash = "a5e5436e4a34733f283955c731398a4fd6bf151bd6bbdd377511d69b33065a9e"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-loading-screen.toml"
-hash = "0c45659877db3db714096aa3a62a7715bc1e59fef951abfc0f15dbab8406cd9a"
+hash = "d1ea4f4016418f5d34279890752d86c494a494f9dadccda8cbb2980b315884c5"
 metafile = true
 
 [[files]]
@@ -478,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.toml"
-hash = "8b977f688c648ca53b125f996e6e3138823d4d72143bab221d3c208e31964a92"
+hash = "22a9f27ba11eebe161bc6b7ae30aa1af90efe2a8b1cb84acd30cf164021fb77f"
 metafile = true
 
 [[files]]
