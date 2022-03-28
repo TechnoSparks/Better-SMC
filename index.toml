@@ -5,14 +5,6 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "b9584e2b32c6bf4219bb3e785eda5f76773f2a4573c96998099159842d7ffc37"
 
 [[files]]
-file = "LICENSE"
-hash = "436a6d536138f203ac333858cff92a568be62797752b3adb94bcaa0f6ffe7ef6"
-
-[[files]]
-file = "README.md"
-hash = "d09823103b9f4c21fbc3d039cafc6547671ff0c3d840d71704b4431ad3ecf723"
-
-[[files]]
 file = "config/additional-additions-config.json"
 hash = "f32ea825e0302dfb156b3e39220b026e2e20e595a1b2ad06797ea7ed69fe773b"
 
@@ -939,4 +931,9 @@ hash = "e47dd87cd8568f88209bc592687a69776ef0b65893ff9a8c827bcfb21582250b"
 [[files]]
 file = "shaderpacks/ComplementaryShaders.toml"
 hash = "4b50219b2539e4dddbd78b9fa41cc9e7d7040d06b8600e4b7f4e39001951ae4a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/SildursEnhancedDefault.toml"
+hash = "4a0568e8976db48c0367fccca9cd984c7cb6c94e43a5fda8bf4eb65fd0a5a57c"
 metafile = true
