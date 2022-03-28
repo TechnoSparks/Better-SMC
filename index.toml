@@ -756,11 +756,6 @@ hash = "d6dd0910234eac7b8e87c02163f5921ef07fb785483e7e063b0d893b172ed5b0"
 metafile = true
 
 [[files]]
-file = "mods/public-gui-announcement.toml"
-hash = "3a55586cc87f25174031f05f795de12a7064f1d4cd6bac22755d590538aa8932"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib-fabric.toml"
 hash = "446f0d5222e4ad02ded5ea6567b16932359888802283609d5e781895f3d61de4"
 metafile = true
