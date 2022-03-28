@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CustomSkinLoader/CustomSkinLoader.json"
+hash = "b9584e2b32c6bf4219bb3e785eda5f76773f2a4573c96998099159842d7ffc37"
+
+[[files]]
 file = "LICENSE"
 hash = "436a6d536138f203ac333858cff92a568be62797752b3adb94bcaa0f6ffe7ef6"
 
@@ -21,8 +25,12 @@ file = "config/bcc.json"
 hash = "c7ff3c97b8229b81827b2116c8a975bbf693f7b974bd5346eec048ffdc1996e5"
 
 [[files]]
+file = "config/bclib/server.json"
+hash = "11736fdc03761560e311fffc7239eaabe660d49b4286589ca3056417258b34a9"
+
+[[files]]
 file = "config/better_loading_screen/config.json5"
-hash = "b4015b33f9eb0f4999b0b57644f2d60f112cf4a5e75626992bec2bef8d32ca02"
+hash = "040e11138a057067b8dea81a560af5203ad6a58f3ce2a6e9da349b280ce37f00"
 
 [[files]]
 file = "config/betterpingdisplay.json"
@@ -39,6 +47,18 @@ hash = "02b1e2d4e66876b2e400024733f297c480ae85a407eaa754a27a7fce3ac0a7a9"
 [[files]]
 file = "config/inmis.json"
 hash = "a59055ba6cf389c214328a80c4a4393b4f0bd1f8a6766145791851ef6a2662b2"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "0fe4e6c17ab6348c696d35678d258e36b6eb8e3c91307823ed2a772dd48b5b57"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "4268fbf64131daf63d13470830f52fa29ad36afd68373d182dd4379d2f5e7fc7"
 
 [[files]]
 file = "config/lenientstacksize_config.json"
@@ -63,6 +83,10 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
 hash = "4a6f74a51ec23308918bd63ce994ffde57313facc813096afc699fe39d3da6f5"
+
+[[files]]
+file = "config/servercore.toml"
+hash = "f0214eaa57c590a0f33d11ac6d77234f88f77c108758887e0468663856710842"
 
 [[files]]
 file = "config/simple-rpc-server.toml"
