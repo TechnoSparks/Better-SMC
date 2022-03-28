@@ -1,6 +1,6 @@
 name = "Eating Animation [Fabric]"
 filename = "eating-animation-1.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3651/790/eating-animation-1.5.jar"

@@ -1,6 +1,6 @@
 name = "Mod Menu"
 filename = "modmenu-3.1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3668/801/modmenu-3.1.0.jar"

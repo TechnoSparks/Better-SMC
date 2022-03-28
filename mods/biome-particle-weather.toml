@@ -1,6 +1,6 @@
 name = "Biome Particle Weather"
 filename = "BiomeParticleWeather-2.3.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3721/981/BiomeParticleWeather-2.3.5.jar"

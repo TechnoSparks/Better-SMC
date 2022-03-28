@@ -1,6 +1,6 @@
 name = "Cull Leaves"
 filename = "cullleaves-2.3.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3509/388/cullleaves-2.3.2.jar"

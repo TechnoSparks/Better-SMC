@@ -1,6 +1,6 @@
 name = "MaLiLib"
 filename = "malilib-fabric-1.18.2-0.12.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3692/220/malilib-fabric-1.18.2-0.12.1.jar"
