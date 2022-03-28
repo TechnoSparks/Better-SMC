@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier-fabric.toml"
-hash = "49b517bfb4831ccee17b314bd6b86eb36c4ab21e19bca5cd4454863cdd9b3eb4"
+hash = "040754c11df17ab74babd6254609e63cf058d9c3f742ddf4c608ae501008f1ee"
 metafile = true
 
 [[files]]
