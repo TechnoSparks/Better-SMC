@@ -1,13 +1,13 @@
 name = "Biome Particle Weather"
-filename = "BiomeWeatherEffects-2.3.4.jar"
+filename = "BiomeParticleWeather-2.3.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3692/660/BiomeWeatherEffects-2.3.4.jar"
+url = "https://edge.forgecdn.net/files/3721/981/BiomeParticleWeather-2.3.5.jar"
 hash-format = "sha1"
-hash = "52ae0078b4893c0c13c6cd4b891fcf36ea371260"
+hash = "2f80e511ebcd97326adaaeeea198c0d023d05b68"
 
 [update]
 [update.curseforge]
-file-id = 3692660
+file-id = 3721981
 project-id = 575109
