@@ -181,6 +181,11 @@ hash = "0906657a5361ad7864aa15d308e22e565f1eabb0a4e7cac990eeaa681b974ca5"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.toml"
+hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.toml"
 hash = "daf9022b2b49d82f0cdab3d04fb4a032b74c1bed8a8cdc259c565acbeceb33dd"
 metafile = true
@@ -233,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/bow-infinity-fix.toml"
 hash = "727c852fe11ccf64c440a698111febeb99001cc383030f8f76718d8d20d99734"
+metafile = true
+
+[[files]]
+file = "mods/break-progress.toml"
+hash = "5b4946f8e93d8bfd892ba143172193f1c7471cd5f42815892d64ce554b60ea84"
 metafile = true
 
 [[files]]
@@ -358,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/dark-paintings.toml"
 hash = "a01a3bc7e60461adcbf85f45f02d4f986f209197585aefa993bea42173fc8ac9"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.toml"
+hash = "22a9f27ba11eebe161bc6b7ae30aa1af90efe2a8b1cb84acd30cf164021fb77f"
 metafile = true
 
 [[files]]
@@ -491,13 +506,33 @@ hash = "2949f4bfcdfea379f398581fe92f06e6866f001610cc2ef7fd6ba5e5d9ae497a"
 metafile = true
 
 [[files]]
+file = "mods/forgetmechunk.toml"
+hash = "157cf09e3f6a5a3df956c6a56ffee4dc50000b9bda935431eaa589d3ea87194b"
+metafile = true
+
+[[files]]
 file = "mods/forgottenrecipes.toml"
 hash = "20236f0cd4af4cfc34bfaeeb0bbf4286b26f7d6b063f25990d980b8eb6562a16"
 metafile = true
 
 [[files]]
+file = "mods/fpsdisplay.toml"
+hash = "c70e9df45161cba28abd7388f859e62430c1e73472119ba2e5c467085f6e1215"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.toml"
+hash = "775614007fa30ead3a1c4fb18ec23b08e973afb09bb6eea1f1011e8212144dfc"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "a1f3905c864512030f1d2aafb3c38d1f771b76fa3e3fad2d4ada772906f7bb58"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders-fabric.toml"
+hash = "6946d91c8113c8ec2bf521004a5d7585e70ea4e0937643cafab3fcf9d2436f23"
 metafile = true
 
 [[files]]
@@ -666,8 +701,18 @@ hash = "39f79a4b8c277bb59b6999c65c1c398c7ffe99c07b67583e5e935950f49d2848"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.toml"
+hash = "624ec908f06033b21a9799fbac9312bdd9cadb3876f5086f1a93354c0e22cb75"
+metafile = true
+
+[[files]]
 file = "mods/passive-endermen-fabric.toml"
 hash = "37bc126d1690eab29f5a3a329aab520b45888a1dd25989a1b2917df1297a0071"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.toml"
+hash = "6e2601a1b0ecb85e89736bfb41c918215b83a3b91c9c221d9dbf46fa6b33768f"
 metafile = true
 
 [[files]]
@@ -708,6 +753,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
 hash = "55f21669de8d2793970f77996c188baf5e8557a327fedd7562f2b6f62d1a9b95"
+metafile = true
+
+[[files]]
+file = "mods/resetchunks.toml"
+hash = "ea6793e5d05d3bb904e336083b27a3cee1ebef50bf78589573c85b21ef0acfb1"
 metafile = true
 
 [[files]]
