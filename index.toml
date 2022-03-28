@@ -14,7 +14,7 @@ hash = "ad3ee148ed435562d60ee7e0ad208f75c3d6e24ada0ab3561067d8c176632e67"
 
 [[files]]
 file = "config/bcc.json"
-hash = "f216200d6bc58dad6206fc5cabe891496323f4bfb3be90e1601411a27474f601"
+hash = "7095c9661a72cedc93dc8acb0e983ec8f1e55b39343569f1477a0430bc5e9f2c"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -831,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/subterrestrial.toml"
-hash = "339f516edf4dce971d896bd4a24a01281773a3e304c02b1b73ebfd4b7eae919f"
+hash = "fa7b8d020c4b1fb9646f33a0f542664b324c0608185574054d6d6283802ae844"
 metafile = true
 
 [[files]]
