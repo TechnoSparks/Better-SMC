@@ -19,22 +19,22 @@
 	   Declares the background color of the loading screen.
 	   Default: #EF323D
 	*/
-	backgroundColor: "#303030",
+	backgroundColor: "#1a1a1a",
 	/*
 	   Declares the bar color of the loading screen.
 	   Default: #FFFFFF
 	*/
-	barColor: "#FFFFFF",
+	barColor: "#FAFAFA",
 	/*
 	   Declares the bar frame color of the loading screen.
 	   Default: #FFFFFF
 	*/
-	barFrameColor: "#FFFFFF",
+	barFrameColor: "#FAFAFA",
 	/*
 	   Declares the text color of the loading screen.
 	   Default: #FFFFFF
 	*/
-	textColor: "#FFFFFF",
+	textColor: "#FAFAFA",
 	/*
 	   Declares the logo color of the loading screen.
 	   Default: #FFFFFF
