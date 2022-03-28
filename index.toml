@@ -814,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.toml"
-hash = "bd7c1c5af4bf1192e3b95845cd8f85412e9a94533f8dd2f79f624c7df22c3611"
+hash = "d4dfa2d06dd6c79502558c644f3efc1768c84fba71fa39cc036605b51d7cc9d5"
 metafile = true
 
 [[files]]
