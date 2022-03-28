@@ -1,13 +1,13 @@
-name = "Better SMC"
+name = "LaW Minecraft"
 author = "Shahmi"
-version = "2.2.1"
+version = "3.0.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1a6c61953e81912421e2f996be0d124beb5cfd46d32601444c1ee809a52472ae"
+hash = "4cb4b8a9585229bccb4144ae8fcdf415b9e5694876ca2252056aa6685c0d22d7"
 
 [versions]
 fabric = "0.13.3"
-minecraft = "1.18.1"
+minecraft = "1.18.2"

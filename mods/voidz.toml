@@ -1,13 +1,13 @@
 name = "VoidZ"
-filename = "voidz-1.0.5.jar"
+filename = "voidz-1.0.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3543/534/voidz-1.0.5.jar"
+url = "https://edge.forgecdn.net/files/3683/628/voidz-1.0.6.jar"
 hash-format = "sha1"
-hash = "08c6e325358210a956bc8df4ce9ec8ef28bc00f4"
+hash = "f5e04f1d2f1ffa014fb9f4286bd913e1147df249"
 
 [update]
 [update.curseforge]
-file-id = 3543534
+file-id = 3683628
 project-id = 486971

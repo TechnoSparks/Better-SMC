@@ -1,13 +1,13 @@
 name = "ServerCore"
-filename = "servercore-1.2.8-1.18.1.jar"
+filename = "servercore-1.2.8-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.8-1.18.1/servercore-1.2.8-1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3667/424/servercore-1.2.8-1.18.2.jar"
 hash-format = "sha1"
-hash = "bc756dcf90e45b40b633d19789c5c8028322906d"
+hash = "949d3e5c84d1f42e917766ed90795d9809307397"
 
 [update]
-[update.modrinth]
-mod-id = "4WWQxlQP"
-version = "IOuEmJ7r"
+[update.curseforge]
+file-id = 3667424
+project-id = 550579

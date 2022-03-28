@@ -1,13 +1,13 @@
-name = "Subterrestrial"
-filename = "Subterrestrial-1.0.1.jar"
+name = "Subterrestrial (Fabric)"
+filename = "Subterrestrial-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UiVm8hgI/versions/1.0.1/Subterrestrial-1.0.1.jar"
+url = "https://edge.forgecdn.net/files/3670/713/Subterrestrial-1.0.2.jar"
 hash-format = "sha1"
-hash = "c61a6c70d525aabccf10a7833101c6fb7dacf9e4"
+hash = "6a59d578b1dfc581b45084bae5d37c36ac1bf46b"
 
 [update]
-[update.modrinth]
-mod-id = "UiVm8hgI"
-version = "EnfaTHi6"
+[update.curseforge]
+file-id = 3670713
+project-id = 575588

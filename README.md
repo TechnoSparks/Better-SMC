@@ -6,12 +6,6 @@ Personal modpack that was initially based on the mod list of Better Minecraft. S
 
 The original Better Minecraft had some duplicate mods that serve the same features. This bothers me a lot due to how modded Minecraft consumes a lot of resources. I decided to trim duplicates and remove redundant functionalities.
 
-| Dependency | Version |
-| --- | --- |
-| Minecraft | = 1.18.1 |
-| Fabric | >= 0.13.3 |
-| Java | >= 17 |
-
 ## Gameplay Notes!
 - Original Better Minecraft has a grave mod called [You're in Grave Danger](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger) that keeps your item on-death. This is absent in Better SMC due to my private playthrough uses `keepinventory` gamerule as `true`
 - An **alpha**-stage [Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric/files) is included in this modpack.

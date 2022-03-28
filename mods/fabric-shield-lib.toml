@@ -1,13 +1,13 @@
 name = "Fabric Shield Lib"
-filename = "FabricShieldLib-1.5.1-pre1-1.18.jar"
+filename = "FabricShieldLib-1.5.3-1.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3650/376/FabricShieldLib-1.5.1-pre1-1.18.jar"
+url = "https://edge.forgecdn.net/files/3672/635/FabricShieldLib-1.5.3-1.18.jar"
 hash-format = "sha1"
-hash = "114ac4492125f12fb2a38ff768a36396835bc957"
+hash = "c22c399da855d37eb0020ba585bf47e019cf3e5a"
 
 [update]
 [update.curseforge]
-file-id = 3650376
+file-id = 3672635
 project-id = 380649

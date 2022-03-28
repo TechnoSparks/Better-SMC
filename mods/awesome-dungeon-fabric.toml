@@ -1,13 +1,13 @@
 name = "Awesome Dungeon - Fabric"
-filename = "AwesomeDungeonFabric-1.18.1-2.0.4.jar"
+filename = "fabric-example-mod-2.0.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3605/285/AwesomeDungeonFabric-1.18.1-2.0.4.jar"
+url = "https://edge.forgecdn.net/files/3676/388/fabric-example-mod-2.0.5.jar"
 hash-format = "sha1"
-hash = "68a7f09d2bbd2c9e113c7518fab42184342cbb6c"
+hash = "3d18ab88e78ac23fb1aeaa8d4242743637264ea3"
 
 [update]
 [update.curseforge]
-file-id = 3605285
+file-id = 3676388
 project-id = 530309

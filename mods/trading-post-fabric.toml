@@ -1,13 +1,13 @@
 name = "Trading Post [Fabric]"
-filename = "TradingPost-v3.1.2-1.18.1-Fabric.jar"
+filename = "TradingPost-v3.2.0-1.18.2-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3569/713/TradingPost-v3.1.2-1.18.1-Fabric.jar"
+url = "https://edge.forgecdn.net/files/3671/418/TradingPost-v3.2.0-1.18.2-Fabric.jar"
 hash-format = "sha1"
-hash = "e4296b90a1db829effaab69940445268f2f6f296"
+hash = "93255969543c7da4e505821a31acfe236f8a7f00"
 
 [update]
 [update.curseforge]
-file-id = 3569713
+file-id = 3671418
 project-id = 547472

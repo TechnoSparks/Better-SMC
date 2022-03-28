@@ -1,13 +1,13 @@
 name = "Disenchanter"
-filename = "disenchanter-0.1.4+1.18.jar"
+filename = "disenchanter-0.1.5+1.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3581/850/disenchanter-0.1.4+1.18.jar"
+url = "https://cdn.modrinth.com/data/OQ8To4FT/versions/0.1.5+1.18/disenchanter-0.1.5+1.18.jar"
 hash-format = "sha1"
-hash = "a133b14601819b58623d5d2c188371cb1ff71846"
+hash = "43038ccf965cf36ac14ba3f9656ddc3ee7d9f22a"
 
 [update]
-[update.curseforge]
-file-id = 3581850
-project-id = 542473
+[update.modrinth]
+mod-id = "OQ8To4FT"
+version = "BsyhO78u"

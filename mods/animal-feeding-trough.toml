@@ -1,13 +1,13 @@
 name = "Animal Feeding Trough [Fabric | Forge]"
-filename = "animal_feeding_trough-1.0.3+1.18.1.jar"
+filename = "animal_feeding_trough-1.0.3+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3580/552/animal_feeding_trough-1.0.3+1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3667/573/animal_feeding_trough-1.0.3+1.18.2.jar"
 hash-format = "sha1"
-hash = "37fbc32015e29a8204dff1ced1aa4034eb87b67d"
+hash = "8a801b33d2bef96694188812e0e7a218e06322a7"
 
 [update]
 [update.curseforge]
-file-id = 3580552
+file-id = 3667573
 project-id = 445838

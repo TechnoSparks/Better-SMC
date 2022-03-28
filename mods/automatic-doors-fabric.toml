@@ -1,13 +1,13 @@
 name = "Automatic Doors (Fabric)"
-filename = "automaticdoors-fabric_1.18.x-1.9.jar"
+filename = "automaticdoors-fabric_1.18.x-2.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3542/335/automaticdoors-fabric_1.18.x-1.9.jar"
+url = "https://edge.forgecdn.net/files/3693/702/automaticdoors-fabric_1.18.x-2.4.jar"
 hash-format = "sha1"
-hash = "3e895e73995fc64e5853caf58e80aebeb0f172cb"
+hash = "04d51b7fbac89d42d299f8ee44b4197a65a798d9"
 
 [update]
 [update.curseforge]
-file-id = 3542335
+file-id = 3693702
 project-id = 531461

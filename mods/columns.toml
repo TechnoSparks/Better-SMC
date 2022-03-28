@@ -1,13 +1,13 @@
 name = "Columns"
-filename = "columns-1.3.0.jar"
+filename = "columns-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3667/332/columns-1.3.0.jar"
+url = "https://edge.forgecdn.net/files/3697/328/columns-1.4.0.jar"
 hash-format = "sha1"
-hash = "0dc4b9668182d1145022f8fc5a525657d550f59f"
+hash = "99ecb175cb5b827f8e30ceca2a0e7e31de98ed44"
 
 [update]
 [update.curseforge]
-file-id = 3667332
+file-id = 3697328
 project-id = 385230

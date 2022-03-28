@@ -1,13 +1,13 @@
 name = "Xtra Arrows"
-filename = "Xtra Arrows v1.7.4 FABRIC MC1.18.jar"
+filename = "Xtra Arrows Fabric MC1.18.2 v1.8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3639/472/Xtra%20Arrows%20v1.7.4%20FABRIC%20MC1.18.jar"
+url = "https://edge.forgecdn.net/files/3669/469/Xtra%20Arrows%20Fabric%20MC1.18.2%20v1.8.jar"
 hash-format = "sha1"
-hash = "a2bc9cc4c3a2311484af5790f2f57b07d5d522c8"
+hash = "30bf6c2dac2b3ab7b09c20a6a8e786032ece8633"
 
 [update]
 [update.curseforge]
-file-id = 3639472
+file-id = 3669469
 project-id = 566441

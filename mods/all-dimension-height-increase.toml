@@ -1,13 +1,13 @@
 name = "All Dimension Height Increase"
-filename = "dim-height-1.1.0.jar"
+filename = "dim-height-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3599/174/dim-height-1.1.0.jar"
+url = "https://edge.forgecdn.net/files/3680/310/dim-height-1.1.1.jar"
 hash-format = "sha1"
-hash = "3619bbd843e58766de4fbc86f78455aaf0d50201"
+hash = "9f55efd4b4b9625024d44186f3136ac92f8e1fc4"
 
 [update]
 [update.curseforge]
-file-id = 3599174
+file-id = 3680310
 project-id = 445910

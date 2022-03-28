@@ -1,13 +1,13 @@
 name = "SpoornPacks"
-filename = "spoornpacks-3.6.jar"
+filename = "spoornpacks-4.1.1-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3670/783/spoornpacks-3.6.jar"
+url = "https://edge.forgecdn.net/files/3681/34/spoornpacks-4.1.1-1.18.2.jar"
 hash-format = "sha1"
-hash = "48ea7fbe0679daf0f9c753ec768d6d2b774ea7e7"
+hash = "f763d6a0ea27ff6f95aeaecef959cb2019e361d5"
 
 [update]
 [update.curseforge]
-file-id = 3670783
+file-id = 3681034
 project-id = 577442
