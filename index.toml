@@ -526,6 +526,10 @@ hash = "775614007fa30ead3a1c4fb18ec23b08e973afb09bb6eea1f1011e8212144dfc"
 metafile = true
 
 [[files]]
+file = "mods/full-slabs-1.18.2-3.3.5.jar"
+hash = "8fbd219acc7fbe55ff8f8e30befeb10b4f4256552867874930336a75bbee121a"
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "a1f3905c864512030f1d2aafb3c38d1f771b76fa3e3fad2d4ada772906f7bb58"
 metafile = true
@@ -592,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.toml"
-hash = "1db02540aab84103dd7618d8ed6ee3b4f3f70862c1a32e6729e01145021c5a13"
+hash = "a590f7beaf839ee9a92c557f3a2625481192dcabd3041ede21974562854855e1"
 metafile = true
 
 [[files]]
@@ -691,11 +695,6 @@ hash = "ac843deb7ea5718a1c736ce5e684e3bdb974dc398963d98edddcdf2a203e04ba"
 metafile = true
 
 [[files]]
-file = "mods/numismatic-overhaul.toml"
-hash = "4be8262599210939f73c4a2ed7f4e3e9187a4943762988616ccebfa62abe132b"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
 hash = "39f79a4b8c277bb59b6999c65c1c398c7ffe99c07b67583e5e935950f49d2848"
 metafile = true
@@ -749,6 +748,10 @@ metafile = true
 file = "mods/puzzles-lib-fabric.toml"
 hash = "446f0d5222e4ad02ded5ea6567b16932359888802283609d5e781895f3d61de4"
 metafile = true
+
+[[files]]
+file = "mods/recipecache-0.2.1-1.17.1.jar"
+hash = "6494483661ece67dc466b16ee4c494767cc36e214918c55ab634b4a2ad34043b"
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
