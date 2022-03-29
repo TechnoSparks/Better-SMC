@@ -1214,3 +1214,7 @@ hash = "e47dd87cd8568f88209bc592687a69776ef0b65893ff9a8c827bcfb21582250b"
 file = "shaderpacks/ComplementaryShaders.toml"
 hash = "4b50219b2539e4dddbd78b9fa41cc9e7d7040d06b8600e4b7f4e39001951ae4a"
 metafile = true
+
+[[files]]
+file = "shaderpacks/SildursEnhancedDefault.toml"
+hash = "c9abd24365797f02779c2b5eaca2aeff826568a85f5543a6ae94492e0358e99c"
