@@ -14,7 +14,7 @@ hash = "ad3ee148ed435562d60ee7e0ad208f75c3d6e24ada0ab3561067d8c176632e67"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c7ff3c97b8229b81827b2116c8a975bbf693f7b974bd5346eec048ffdc1996e5"
+hash = "0ba7925abd2a63ba932cc252335e1713368a931c57d77131b8f9419c5efceddd"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/caracal-mod.toml"
-hash = "f963f794e378d62d9f521d78cbbfdaa30641f78bd922830c03a05d2249eb8448"
+hash = "575f692b8cc258f23fa468f971d63802398f276fa1dbee0377e3f34f1a324260"
 metafile = true
 
 [[files]]
@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-restitched.toml"
-hash = "160981ea731e85b1dce8133f25d1a12c356c0aa59b4c04f06ebb0d37f087927e"
+hash = "0375108f363db327ec9d0a3e60e21c113636376afdc62a7bb5579f0fd118453b"
 metafile = true
 
 [[files]]
@@ -458,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.toml"
-hash = "af70c361d69a7e77c32dcde9f3a5f991b6f22e5635840c1d0fc6ae832b91bc2f"
+hash = "8e0489570ea3c91e6ddd9254679650f1ff5ba711626bf1be37f8acd7530f44b8"
 metafile = true
 
 [[files]]
@@ -568,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare-fabric.toml"
-hash = "4b23e98ad4eff125eda34103e720484333b96fe3b7d7b8e5f661fa024265fd7b"
+hash = "23bfea2b265f800540890faf6542b0db3513e7001157c7c0d8679d74a6810530"
 metafile = true
 
 [[files]]
@@ -708,7 +708,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers-fabric.toml"
-hash = "52c2f7919ecd03ff085ce22aa85a933eaf3c62d1a7c00a3c055e001bac43ad50"
+hash = "14f89131b04f419e75e9a2ff3fe7901b8220008997f2644d42bbef7c5885cb2f"
 metafile = true
 
 [[files]]
@@ -788,7 +788,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-filters-fabric.toml"
-hash = "bedbacd71630c36aa523730a9a3a66965dbcefc368f41d56cee1d4016560fff6"
+hash = "d482df6b5299089c6bad257fd14bd295999d5f4aa74d1a736f0c76255b570cab"
 metafile = true
 
 [[files]]
@@ -883,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "mods/myloot.toml"
-hash = "2924965bde7b1962c5550ef7a419cc779066450f5970757b3435da8c5a109594"
+hash = "756f37e00d9a39dd553f4168e14ec77c97a670eaedfd25b829b11260786551e3"
 metafile = true
 
 [[files]]
@@ -1133,7 +1133,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets-fabric.toml"
-hash = "803fa3a6809a4374ae7de6793000eede70d33cd7327fd52dc742a2534e97edeb"
+hash = "c3c7bf02d0049dd3a0b8ed54f1a5eac6b16c35356c0fd000d36291adf762cdee"
 metafile = true
 
 [[files]]
