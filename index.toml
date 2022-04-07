@@ -14,7 +14,7 @@ hash = "ad3ee148ed435562d60ee7e0ad208f75c3d6e24ada0ab3561067d8c176632e67"
 
 [[files]]
 file = "config/bcc.json"
-hash = "0ba7925abd2a63ba932cc252335e1713368a931c57d77131b8f9419c5efceddd"
+hash = "627de50947a82de7de17ef35a9d75b101b06ce965bbd622ccd4cf15f67276f0e"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "a5e5436e4a34733f283955c731398a4fd6bf151bd6bbdd377511d69b33065a9e"
+hash = "24597ed5da62da4985ee5b0ffe665e5bddd328f60fcebdb488b69ff3e081992a"
 metafile = true
 
 [[files]]
@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "7dd17b9b9514e5dbd19d536d82721b13d7590268a29825d732d4d332b16a5886"
+hash = "2c283319aebf853500c3057142e54ce91ae50170a161de46489a266f57f46f63"
 metafile = true
 
 [[files]]
@@ -728,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/horsebuff.toml"
-hash = "d8d005efb7f9e3d8f53b2bb39438f55aa5de2a007b51f1cfbd17340091c778df"
+hash = "399804d7291faa834784ee2b351dfe619e0f2260ce39dbad9bcead7a33ece377"
 metafile = true
 
 [[files]]
@@ -883,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "mods/myloot.toml"
-hash = "756f37e00d9a39dd553f4168e14ec77c97a670eaedfd25b829b11260786551e3"
+hash = "a8fa014e1eaf0e6356d0493f1db592f35fae5d755a51a3ba924bd28a8806c1b8"
 metafile = true
 
 [[files]]
